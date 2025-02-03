@@ -1,0 +1,5309 @@
+Épée+0	100
+Épée+1	90
+Épée+2	90
+Épée+3	90
+Épée+4	80
+Épée+5	60
+Épée+6	50
+Épée+7	40
+Épée+8	30
+Épée longue+0	100
+Épée longue+1	90
+Épée longue+2	90
+Épée longue+3	90
+Épée longue+4	80
+Épée longue+5	60
+Épée longue+6	50
+Épée longue+7	40
+Épée longue+8	30
+Lame courbe+0	100
+Lame courbe+1	90
+Lame courbe+2	90
+Lame courbe+3	90
+Lame courbe+4	80
+Lame courbe+5	60
+Lame courbe+6	50
+Lame courbe+7	40
+Lame courbe+8	30
+Canne Épée+0	100
+Canne Épée+1	90
+Canne Épée+2	90
+Canne Épée+3	90
+Canne Épée+4	80
+Canne Épée+5	60
+Canne Épée+6	50
+Canne Épée+7	40
+Canne Épée+8	30
+Épée large+0	100
+Épée large+1	90
+Épée large+2	90
+Épée large+3	90
+Épée large+4	80
+Épée large+5	60
+Épée large+6	50
+Épée large+7	40
+Épée large+8	30
+Épée en argent+0	100
+Épée en argent+1	90
+Épée en argent+2	90
+Épée en argent+3	80
+Épée en argent+4	70
+Épée en argent+5	60
+Épée en argent+6	50
+Épée en argent+7	40
+Épée en argent+8	30
+Épée aux orchidées+0	100
+Épée aux orchidées+1	90
+Épée aux orchidées+2	90
+Épée aux orchidées+3	80
+Épée aux orchidées+4	70
+Épée aux orchidées+5	60
+Épée aux orchidées+6	50
+Épée aux orchidées+7	40
+Épée aux orchidées+8	30
+Épée bâtarde+0	100
+Épée bâtarde+1	90
+Épée bâtarde+2	90
+Épée bâtarde+3	80
+Épée bâtarde+4	70
+Épée bâtarde+5	60
+Épée bâtarde+6	50
+Épée bâtarde+7	40
+Épée bâtarde+8	30
+Glaive barbare+0	100
+Glaive barbare+1	90
+Glaive barbare+2	90
+Glaive barbare+3	80
+Glaive barbare+4	70
+Glaive barbare+5	60
+Glaive barbare+6	50
+Glaive barbare+7	40
+Glaive barbare+8	30
+Épée sanglante+0	100
+Épée sanglante+1	80
+Épée sanglante+2	70
+Épée sanglante+3	60
+Épée sanglante+4	50
+Épée sanglante+5	40
+Épée sanglante+6	30
+Épée sanglante+7	20
+Épée sanglante+8	10
+Grande Épée+0	100
+Grande Épée+1	80
+Grande Épée+2	70
+Grande Épée+3	60
+Grande Épée+4	50
+Grande Épée+5	40
+Grande Épée+6	30
+Grande Épée+7	20
+Grande Épée+8	10
+Épée du magic. volant+0	100
+Épée du magic. volant+1	80
+Épée du magic. volant+2	70
+Épée du magic. volant+3	60
+Épée du magic. volant+4	50
+Épée du magic. volant+5	40
+Épée du magic. volant+6	30
+Épée du magic. volant+7	20
+Épée du magic. volant+8	10
+Épée de demi-lune+0	100
+Épée de demi-lune+1	80
+Épée de demi-lune+2	70
+Épée de demi-lune+3	60
+Épée de demi-lune+4	50
+Épée de demi-lune+5	40
+Épée de demi-lune+6	30
+Épée de demi-lune+7	20
+Épée de demi-lune+8	10
+Épée de bataille+0	100
+Épée de bataille+1	80
+Épée de bataille+2	70
+Épée de bataille+3	60
+Épée de bataille+4	50
+Épée de bataille+5	40
+Épée de bataille+6	30
+Épée de bataille+7	20
+Épée de bataille+8	10
+Lame de croc fantôme+0	100
+Lame de croc fantôme+1	80
+Lame de croc fantôme+2	70
+Lame de croc fantôme+3	60
+Lame de croc fantôme+4	50
+Lame de croc fantôme+5	40
+Lame de croc fantôme+6	30
+Lame de croc fantôme+7	20
+Lame de croc fantôme+8	10
+Épée de nymphe+0	100
+Épée de nymphe+1	80
+Épée de nymphe+2	70
+Épée de nymphe+3	60
+Épée de nymphe+4	50
+Épée de nymphe+5	40
+Épée de nymphe+6	30
+Épée de nymphe+7	20
+Épée de nymphe+8	10
+Épée de piqûre+0	100
+Épée de piqûre+1	80
+Épée de piqûre+2	70
+Épée de piqûre+3	60
+Épée de piqûre+4	50
+Épée de piqûre+5	40
+Épée de piqûre+6	30
+Épée de piqûre+7	20
+Épée de piqûre+8	10
+Épée empoisonnée+0	100
+Épée empoisonnée+1	80
+Épée empoisonnée+2	70
+Épée empoisonnée+3	60
+Épée empoisonnée+4	50
+Épée empoisonnée+5	40
+Épée empoisonnée+6	30
+Épée empoisonnée+7	20
+Épée empoisonnée+8	10
+Épée du lion+0	100
+Épée du lion+1	80
+Épée du lion+2	70
+Épée du lion+3	60
+Épée du lion+4	50
+Épée du lion+5	40
+Épée du lion+6	30
+Épée du lion+7	20
+Épée du lion+8	10
+Lame tranchante+0	100
+Lame tranchante+1	90
+Lame tranchante+2	80
+Lame tranchante+3	70
+Lame tranchante+4	60
+Lame tranchante+5	50
+Lame tranchante+6	40
+Lame tranchante+7	30
+Lame tranchante+8	30
+Lame tranchante+9	100
+Lame mortelle+0	100
+Lame mortelle+1	90
+Lame mortelle+2	90
+Lame mortelle+3	90
+Lame mortelle+4	80
+Lame mortelle+5	60
+Lame mortelle+6	50
+Lame mortelle+7	40
+Lame mortelle+8	30
+Épée lunaire+0	100
+Épée lunaire+1	90
+Épée lunaire+2	90
+Épée lunaire+3	90
+Épée lunaire+4	80
+Épée lunaire+5	60
+Épée lunaire+6	50
+Épée lunaire+7	40
+Épée lunaire+8	30
+Épée céleste+0	100
+Épée céleste+1	80
+Épée céleste+2	70
+Épée céleste+3	60
+Épée céleste+4	50
+Épée céleste+5	40
+Épée céleste+6	30
+Épée céleste+7	20
+Épée céleste+8	10
+Épée d'exorcisme+0	100
+Épée d'exorcisme+1	80
+Épée d'exorcisme+2	70
+Épée d'exorcisme+3	60
+Épée d'exorcisme+4	50
+Épée d'exorcisme+5	40
+Épée d'exorcisme+6	30
+Épée d'exorcisme+7	20
+Épée d'exorcisme+8	10
+Lame démoniaque+0	100
+Lame démoniaque+1	80
+Lame démoniaque+2	70
+Lame démoniaque+3	60
+Lame démoniaque+4	50
+Lame démoniaque+5	40
+Lame démoniaque+6	30
+Lame démoniaque+7	20
+Lame démoniaque+8	10
+Épée de baron+0	100
+Épée de baron+1	80
+Épée de baron+2	70
+Épée de baron+3	60
+Épée de baron+4	50
+Épée de baron+5	40
+Épée de baron+6	30
+Épée de baron+7	20
+Épée de baron+8	10
+Épée de baron+9	30
+Épée de Triton+0	100
+Épée de Triton+1	90
+Épée de Triton+2	80
+Épée de Triton+3	70
+Épée de Triton+4	60
+Épée de Triton+5	50
+Épée de Triton+6	40
+Épée de Triton+7	30
+Épée de Triton+8	30
+Épée de Triton+9	100
+Épée sacrée+0	100
+Épée sacrée+1	90
+Épée sacrée+2	80
+Épée sacrée+3	70
+Épée sacrée+4	60
+Épée sacrée+5	50
+Épée sacrée+6	40
+Épée sacrée+7	30
+Épée sacrée+8	30
+Épée sacrée+9	100
+Épée de la lune pleine+0	100
+Épée de la lune pleine+1	90
+Épée de la lune pleine+2	90
+Épée de la lune pleine+3	80
+Épée de la lune pleine+4	70
+Épée de la lune pleine+5	60
+Épée de la lune pleine+6	50
+Épée de la lune pleine+7	40
+Épée de la lune pleine+8	30
+Lame du zodiaque+0	90
+Lame du zodiaque+1	75
+Lame du zodiaque+2	60
+Lame du zodiaque+3	45
+Lame du zodiaque+4	30
+Lame du zodiaque+5	20
+Lame du zodiaque+6	10
+Lame du zodiaque+7	8
+Lame du zodiaque+8	3
+Épée du zodiaque+0	90
+Épée du zodiaque+1	75
+Épée du zodiaque+2	60
+Épée du zodiaque+3	45
+Épée du zodiaque+4	30
+Épée du zodiaque+5	20
+Épée du zodiaque+6	10
+Épée du zodiaque+7	8
+Épée du zodiaque+8	3
+Épée du dragon obscur+0	90
+Épée du dragon obscur+1	75
+Épée du dragon obscur+2	60
+Épée du dragon obscur+3	50
+Épée du dragon obscur+4	40
+Épée du dragon obscur+5	30
+Épée du dragon obscur+6	25
+Épée du dragon obscur+7	15
+Épée du dragon obscur+8	8
+Épée du dragon obscur+9	5
+Épée du dragon obscur+10	5
+Épée du dragon obscur+11	5
+Épée du dragon obscur+12	5
+Épée du dragon obscur+13	3
+Épée du dragon obscur+14	3
+Stylet du dragon obs.+0	90
+Stylet du dragon obs.+1	75
+Stylet du dragon obs.+2	60
+Stylet du dragon obs.+3	50
+Stylet du dragon obs.+4	40
+Stylet du dragon obs.+5	30
+Stylet du dragon obs.+6	25
+Stylet du dragon obs.+7	15
+Stylet du dragon obs.+8	8
+Stylet du dragon obs.+9	5
+Stylet du dragon obs.+10	5
+Stylet du dragon obs.+11	5
+Stylet du dragon obs.+12	5
+Stylet du dragon obs.+13	3
+Stylet du dragon obs.+14	3
+Épée serpent +0	90
+Épée serpent +1	75
+Épée serpent +2	60
+Épée serpent +3	50
+Épée serpent +4	40
+Épée serpent +5	30
+Épée serpent +6	25
+Épée serpent +7	15
+Épée serpent +8	8
+Épée serpent +9	5
+Épée serpent +10	5
+Épée serpent +11	5
+Épée serpent +12	5
+Épée serpent +13	3
+Épée serpent +14	3
+Lame serpent +0	90
+Lame serpent +1	75
+Lame serpent +2	60
+Lame serpent +3	50
+Lame serpent +4	40
+Lame serpent +5	30
+Lame serpent +6	25
+Lame serpent +7	15
+Lame serpent +8	8
+Lame serpent +9	5
+Lame serpent +10	5
+Lame serpent +11	5
+Lame serpent +12	5
+Lame serpent +13	3
+Lame serpent +14	3
+Épée runique +0	100
+Épée runique +1	80
+Épée runique +2	45
+Épée runique +3	25
+Épée runique +4	15
+Épée runique +5	8
+Épée runique +6	5
+Épée runique +7	2
+Épée runique +8	1
+Lame dent de dragon +0	100
+Lame dent de dragon +1	80
+Lame dent de dragon +2	45
+Lame dent de dragon +3	25
+Lame dent de dragon +4	15
+Lame dent de dragon +5	8
+Lame dent de dragon +6	5
+Lame dent de dragon +7	2
+Lame dent de dragon +8	1
+Lame dent de dragon +9	100
+Épée de kyanite +0	100
+Épée de kyanite +1	70
+Épée de kyanite +2	55
+Épée de kyanite +3	45
+Épée de kyanite +4	30
+Épée de kyanite +5	20
+Épée de kyanite +6	10
+Épée de kyanite +7	8
+Épée de kyanite +8	3
+Dague+0	100
+Dague+1	90
+Dague+2	90
+Dague+3	90
+Dague+4	80
+Dague+5	60
+Dague+6	50
+Dague+7	40
+Dague+8	30
+Dague cobra+0	100
+Dague cobra+1	90
+Dague cobra+2	90
+Dague cobra+3	90
+Dague cobra+4	80
+Dague cobra+5	60
+Dague cobra+6	50
+Dague cobra+7	40
+Dague cobra+8	30
+Dagues ciseaux+0	100
+Dagues ciseaux+1	90
+Dagues ciseaux+2	90
+Dagues ciseaux+3	90
+Dagues ciseaux+4	80
+Dagues ciseaux+5	60
+Dagues ciseaux+6	50
+Dagues ciseaux+7	40
+Dagues ciseaux+8	30
+Couteau porte-bonheur+0	100
+Couteau porte-bonheur+1	90
+Couteau porte-bonheur+2	90
+Couteau porte-bonheur+3	80
+Couteau porte-bonheur+4	70
+Couteau porte-bonheur+5	60
+Couteau porte-bonheur+6	50
+Couteau porte-bonheur+7	40
+Couteau porte-bonheur+8	30
+Cout. Morsure de Chat+0	100
+Cout. Morsure de Chat+1	90
+Cout. Morsure de Chat+2	90
+Cout. Morsure de Chat+3	80
+Cout. Morsure de Chat+4	70
+Cout. Morsure de Chat+5	60
+Cout. Morsure de Chat+6	50
+Cout. Morsure de Chat+7	40
+Cout. Morsure de Chat+8	30
+Poig. Visage de Diable+0	100
+Poig. Visage de Diable+1	90
+Poig. Visage de Diable+2	90
+Poig. Visage de Diable+3	80
+Poig. Visage de Diable+4	70
+Poig. Visage de Diable+5	60
+Poig. Visage de Diable+6	50
+Poig. Visage de Diable+7	40
+Poig. Visage de Diable+8	30
+Dague du poing diab.+0	100
+Dague du poing diab.+1	80
+Dague du poing diab.+2	70
+Dague du poing diab.+3	60
+Dague du poing diab.+4	50
+Dague du poing diab.+5	40
+Dague du poing diab.+6	30
+Dague du poing diab.+7	20
+Dague du poing diab.+8	10
+Dague sanglante+0	100
+Dague sanglante+1	80
+Dague sanglante+2	70
+Dague sanglante+3	60
+Dague sanglante+4	50
+Dague sanglante+5	40
+Dague sanglante+6	30
+Dague sanglante+7	20
+Dague sanglante+8	10
+Couteau de Nervure+0	100
+Couteau de Nervure+1	80
+Couteau de Nervure+2	70
+Couteau de Nervure+3	60
+Couteau de Nervure+4	50
+Couteau de Nervure+5	40
+Couteau de Nervure+6	30
+Couteau de Nervure+7	20
+Couteau de Nervure+8	10
+Chakram+0	100
+Chakram+1	80
+Chakram+2	70
+Chakram+3	60
+Chakram+4	50
+Chakram+5	40
+Chakram+6	30
+Chakram+7	20
+Chakram+8	10
+Couteau du dragon+0	100
+Couteau du dragon+1	80
+Couteau du dragon+2	70
+Couteau du dragon+3	60
+Couteau du dragon+4	50
+Couteau du dragon+5	40
+Couteau du dragon+6	30
+Couteau du dragon+7	20
+Couteau du dragon+8	10
+Couteau d'éclairs+0	100
+Couteau d'éclairs+1	80
+Couteau d'éclairs+2	70
+Couteau d'éclairs+3	60
+Couteau d'éclairs+4	50
+Couteau d'éclairs+5	40
+Couteau d'éclairs+6	30
+Couteau d'éclairs+7	20
+Couteau d'éclairs+8	10
+Couteau siamois+0	100
+Couteau siamois+1	90
+Couteau siamois+2	90
+Couteau siamois+3	80
+Couteau siamois+4	70
+Couteau siamois+5	60
+Couteau siamois+6	50
+Couteau siamois+7	40
+Couteau siamois+8	30
+Chakram aile du diable+0	100
+Chakram aile du diable+1	90
+Chakram aile du diable+2	90
+Chakram aile du diable+3	80
+Chakram aile du diable+4	70
+Chakram aile du diable+5	60
+Chakram aile du diable+6	50
+Chakram aile du diable+7	40
+Chakram aile du diable+8	30
+Cout. à dents de scie+0	100
+Cout. à dents de scie+1	90
+Cout. à dents de scie+2	90
+Cout. à dents de scie+3	80
+Cout. à dents de scie+4	70
+Cout. à dents de scie+5	60
+Cout. à dents de scie+6	50
+Cout. à dents de scie+7	40
+Cout. à dents de scie+8	30
+Cout. Lumière du sol.+0	100
+Cout. Lumière du sol.+1	90
+Cout. Lumière du sol.+2	90
+Cout. Lumière du sol.+3	80
+Cout. Lumière du sol.+4	70
+Cout. Lumière du sol.+5	60
+Cout. Lumière du sol.+6	50
+Cout. Lumière du sol.+7	40
+Cout. Lumière du sol.+8	30
+Couteau ruisselant+0	100
+Couteau ruisselant+1	90
+Couteau ruisselant+2	90
+Couteau ruisselant+3	80
+Couteau ruisselant+4	70
+Couteau ruisselant+5	60
+Couteau ruisselant+6	50
+Couteau ruisselant+7	40
+Couteau ruisselant+8	30
+Dague de feuille noire+0	100
+Dague de feuille noire+1	90
+Dague de feuille noire+2	90
+Dague de feuille noire+3	80
+Dague de feuille noire+4	70
+Dague de feuille noire+5	60
+Dague de feuille noire+6	50
+Dague de feuille noire+7	40
+Dague de feuille noire+8	30
+Dague du zodiaque+0	90
+Dague du zodiaque+1	75
+Dague du zodiaque+2	60
+Dague du zodiaque+3	45
+Dague du zodiaque+4	30
+Dague du zodiaque+5	20
+Dague du zodiaque+6	10
+Dague du zodiaque+7	8
+Dague du zodiaque+8	3
+Dague du dragon obsc.+0	90
+Dague du dragon obsc.+1	75
+Dague du dragon obsc.+2	60
+Dague du dragon obsc.+3	50
+Dague du dragon obsc.+4	40
+Dague du dragon obsc.+5	30
+Dague du dragon obsc.+6	25
+Dague du dragon obsc.+7	15
+Dague du dragon obsc.+8	8
+Dague du dragon obsc.+9	5
+Dague du dragon obsc.+10	5
+Dague du dragon obsc.+11	5
+Dague du dragon obsc.+12	5
+Dague du dragon obsc.+13	3
+Dague du dragon obsc.+14	3
+Dague serpent +0	90
+Dague serpent +1	75
+Dague serpent +2	60
+Dague serpent +3	50
+Dague serpent +4	40
+Dague serpent +5	30
+Dague serpent +6	25
+Dague serpent +7	15
+Dague serpent +8	8
+Dague serpent +9	5
+Dague serpent +10	5
+Dague serpent +11	5
+Dague serpent +12	5
+Dague serpent +13	3
+Dague serpent +14	3
+Lame des cinq éléments+0	100
+Lame des cinq éléments+1	80
+Lame des cinq éléments+2	45
+Lame des cinq éléments+3	25
+Lame des cinq éléments+4	15
+Lame des cinq éléments+5	8
+Lame des cinq éléments+6	5
+Lame des cinq éléments+7	2
+Lame des cinq éléments+8	1
+Lame des cinq éléments+9	100
+Dague de kyanite +0	100
+Dague de kyanite +1	70
+Dague de kyanite +2	55
+Dague de kyanite +3	45
+Dague de kyanite +4	30
+Dague de kyanite +5	20
+Dague de kyanite +6	10
+Dague de kyanite +7	8
+Dague de kyanite +8	3
+Arc court+0	100
+Arc court+1	90
+Arc court+2	90
+Arc court+3	90
+Arc court+4	80
+Arc court+5	60
+Arc court+6	50
+Arc court+7	40
+Arc court+8	30
+Arc long+0	100
+Arc long+1	90
+Arc long+2	90
+Arc long+3	90
+Arc long+4	80
+Arc long+5	60
+Arc long+6	50
+Arc long+7	40
+Arc long+8	30
+Arc composite+0	100
+Arc composite+1	90
+Arc composite+2	90
+Arc composite+3	90
+Arc composite+4	80
+Arc composite+5	60
+Arc composite+6	50
+Arc composite+7	40
+Arc composite+8	30
+Arc de bataille+0	100
+Arc de bataille+1	90
+Arc de bataille+2	90
+Arc de bataille+3	90
+Arc de bataille+4	80
+Arc de bataille+5	60
+Arc de bataille+6	50
+Arc de bataille+7	40
+Arc de bataille+8	30
+Arc long de cavalerie+0	100
+Arc long de cavalerie+1	90
+Arc long de cavalerie+2	90
+Arc long de cavalerie+3	90
+Arc long de cavalerie+4	80
+Arc long de cavalerie+5	60
+Arc long de cavalerie+6	50
+Arc long de cavalerie+7	40
+Arc long de cavalerie+8	30
+Arc de bat. cavalerie+0	100
+Arc de bat. cavalerie+1	90
+Arc de bat. cavalerie+2	90
+Arc de bat. cavalerie+3	80
+Arc de bat. cavalerie+4	70
+Arc de bat. cavalerie+5	60
+Arc de bat. cavalerie+6	50
+Arc de bat. cavalerie+7	40
+Arc de bat. cavalerie+8	30
+Arc cuivré+0	100
+Arc cuivré+1	90
+Arc cuivré+2	90
+Arc cuivré+3	80
+Arc cuivré+4	70
+Arc cuivré+5	60
+Arc cuivré+6	50
+Arc cuivré+7	40
+Arc cuivré+8	30
+Arc de ruine noire+0	100
+Arc de ruine noire+1	90
+Arc de ruine noire+2	90
+Arc de ruine noire+3	80
+Arc de ruine noire+4	70
+Arc de ruine noire+5	60
+Arc de ruine noire+6	50
+Arc de ruine noire+7	40
+Arc de ruine noire+8	30
+Arc d'oeil rouge+0	100
+Arc d'oeil rouge+1	90
+Arc d'oeil rouge+2	90
+Arc d'oeil rouge+3	80
+Arc d'oeil rouge+4	70
+Arc d'oeil rouge+5	60
+Arc d'oeil rouge+6	50
+Arc d'oeil rouge+7	40
+Arc d'oeil rouge+8	30
+Arc de feuilles épin.+0	100
+Arc de feuilles épin.+1	80
+Arc de feuilles épin.+2	70
+Arc de feuilles épin.+3	60
+Arc de feuilles épin.+4	50
+Arc de feuilles épin.+5	40
+Arc de feuilles épin.+6	30
+Arc de feuilles épin.+7	20
+Arc de feuilles épin.+8	10
+Arc cornes de taureau+0	100
+Arc cornes de taureau+1	80
+Arc cornes de taureau+2	70
+Arc cornes de taureau+3	60
+Arc cornes de taureau+4	50
+Arc cornes de taureau+5	40
+Arc cornes de taureau+6	30
+Arc cornes de taureau+7	20
+Arc cornes de taureau+8	10
+Arc de licorne+0	100
+Arc de licorne+1	80
+Arc de licorne+2	70
+Arc de licorne+3	60
+Arc de licorne+4	50
+Arc de licorne+5	40
+Arc de licorne+6	30
+Arc de licorne+7	20
+Arc de licorne+8	10
+Arc d'aile géante+0	100
+Arc d'aile géante+1	80
+Arc d'aile géante+2	70
+Arc d'aile géante+3	60
+Arc d'aile géante+4	50
+Arc d'aile géante+5	40
+Arc d'aile géante+6	30
+Arc d'aile géante+7	20
+Arc d'aile géante+8	10
+Arc d'abricot divin+0	100
+Arc d'abricot divin+1	80
+Arc d'abricot divin+2	70
+Arc d'abricot divin+3	60
+Arc d'abricot divin+4	50
+Arc d'abricot divin+5	40
+Arc d'abricot divin+6	30
+Arc d'abricot divin+7	20
+Arc d'abricot divin+8	10
+Arc géant drag. jaune+0	100
+Arc géant drag. jaune+1	80
+Arc géant drag. jaune+2	70
+Arc géant drag. jaune+3	60
+Arc géant drag. jaune+4	50
+Arc géant drag. jaune+5	40
+Arc géant drag. jaune+6	30
+Arc géant drag. jaune+7	20
+Arc géant drag. jaune+8	10
+Arc à cornes+0	100
+Arc à cornes+1	90
+Arc à cornes+2	90
+Arc à cornes+3	80
+Arc à cornes+4	70
+Arc à cornes+5	60
+Arc à cornes+6	50
+Arc à cornes+7	40
+Arc à cornes+8	30
+Arc diabolique géant+0	100
+Arc diabolique géant+1	90
+Arc diabolique géant+2	80
+Arc diabolique géant+3	70
+Arc diabolique géant+4	60
+Arc diabolique géant+5	50
+Arc diabolique géant+6	40
+Arc diabolique géant+7	30
+Arc diabolique géant+8	30
+Arc diabolique géant+9	100
+Arc de corbeau d'acier+0	100
+Arc de corbeau d'acier+1	80
+Arc de corbeau d'acier+2	70
+Arc de corbeau d'acier+3	60
+Arc de corbeau d'acier+4	50
+Arc de corbeau d'acier+5	40
+Arc de corbeau d'acier+6	30
+Arc de corbeau d'acier+7	20
+Arc de corbeau d'acier+8	10
+Arc du dragon bleu+0	100
+Arc du dragon bleu+1	80
+Arc du dragon bleu+2	70
+Arc du dragon bleu+3	60
+Arc du dragon bleu+4	50
+Arc du dragon bleu+5	40
+Arc du dragon bleu+6	30
+Arc du dragon bleu+7	20
+Arc du dragon bleu+8	10
+Arbalète fantôme+0	100
+Arbalète fantôme+1	80
+Arbalète fantôme+2	70
+Arbalète fantôme+3	60
+Arbalète fantôme+4	50
+Arbalète fantôme+5	40
+Arbalète fantôme+6	30
+Arbalète fantôme+7	20
+Arbalète fantôme+8	10
+Arc du zodiaque+0	90
+Arc du zodiaque+1	75
+Arc du zodiaque+2	60
+Arc du zodiaque+3	45
+Arc du zodiaque+4	30
+Arc du zodiaque+5	20
+Arc du zodiaque+6	10
+Arc du zodiaque+7	8
+Arc du zodiaque+8	3
+Arc du dragon obscur+0	90
+Arc du dragon obscur+1	75
+Arc du dragon obscur+2	60
+Arc du dragon obscur+3	50
+Arc du dragon obscur+4	40
+Arc du dragon obscur+5	30
+Arc du dragon obscur+6	25
+Arc du dragon obscur+7	15
+Arc du dragon obscur+8	8
+Arc du dragon obscur+9	5
+Arc du dragon obscur+10	5
+Arc du dragon obscur+11	5
+Arc du dragon obscur+12	5
+Arc du dragon obscur+13	3
+Arc du dragon obscur+14	3
+Arc serpent +0	90
+Arc serpent +1	75
+Arc serpent +2	60
+Arc serpent +3	50
+Arc serpent +4	40
+Arc serpent +5	30
+Arc serpent +6	25
+Arc serpent +7	15
+Arc serpent +8	8
+Arc serpent +9	5
+Arc serpent +10	5
+Arc serpent +11	5
+Arc serpent +12	5
+Arc serpent +13	3
+Arc serpent +14	3
+Arc du phénix +0	100
+Arc du phénix +1	80
+Arc du phénix +2	45
+Arc du phénix +3	25
+Arc du phénix +4	15
+Arc du phénix +5	8
+Arc du phénix +6	5
+Arc du phénix +7	2
+Arc du phénix +8	1
+Arc du phénix +9	100
+Arc de kyanite +0	100
+Arc de kyanite +1	70
+Arc de kyanite +2	55
+Arc de kyanite +3	45
+Arc de kyanite +4	30
+Arc de kyanite +5	20
+Arc de kyanite +6	10
+Arc de kyanite +7	8
+Arc de kyanite +8	3
+Glaive+0	100
+Glaive+1	90
+Glaive+2	90
+Glaive+3	90
+Glaive+4	80
+Glaive+5	60
+Glaive+6	50
+Glaive+7	40
+Glaive+8	30
+Lance+0	100
+Lance+1	90
+Lance+2	90
+Lance+3	90
+Lance+4	80
+Lance+5	60
+Lance+6	50
+Lance+7	40
+Lance+8	30
+Lame guillotine+0	100
+Lame guillotine+1	90
+Lame guillotine+2	90
+Lame guillotine+3	90
+Lame guillotine+4	80
+Lame guillotine+5	60
+Lame guillotine+6	50
+Lame guillotine+7	40
+Lame guillotine+8	30
+Lance araignée+0	100
+Lance araignée+1	90
+Lance araignée+2	90
+Lance araignée+3	90
+Lance araignée+4	80
+Lance araignée+5	60
+Lance araignée+6	50
+Lance araignée+7	40
+Lance araignée+8	30
+Gisarme+0	100
+Gisarme+1	90
+Gisarme+2	90
+Gisarme+3	90
+Gisarme+4	80
+Gisarme+5	60
+Gisarme+6	50
+Gisarme+7	40
+Gisarme+8	30
+Faux de guerre+0	50
+Faux de guerre+1	40
+Faux de guerre+2	30
+Faux de guerre+3	80
+Faux de guerre+4	100
+Faux de guerre+5	90
+Faux de guerre+6	90
+Faux de guerre+7	90
+Faux de guerre+8	80
+Fourche Militaire+0	50
+Fourche Militaire+1	40
+Fourche Militaire+2	30
+Fourche Militaire+3	80
+Fourche Militaire+4	100
+Fourche Militaire+5	90
+Fourche Militaire+6	90
+Fourche Militaire+7	90
+Fourche Militaire+8	80
+Hallebarde+0	50
+Hallebarde+1	40
+Hallebarde+2	30
+Hallebarde+3	80
+Hallebarde+4	100
+Hallebarde+5	90
+Hallebarde+6	90
+Hallebarde+7	90
+Hallebarde+8	80
+Grand hache+0	50
+Grand hache+1	40
+Grand hache+2	30
+Grand hache+3	80
+Grand hache+4	100
+Grand hache+5	90
+Grand hache+6	90
+Grand hache+7	90
+Grand hache+8	80
+Pique de glace+0	60
+Pique de glace+1	50
+Pique de glace+2	40
+Pique de glace+3	30
+Pique de glace+4	50
+Pique de glace+5	40
+Pique de glace+6	30
+Pique de glace+7	20
+Pique de glace+8	10
+Épée des douze Esprits+0	60
+Épée des douze Esprits+1	50
+Épée des douze Esprits+2	40
+Épée des douze Esprits+3	30
+Épée des douze Esprits+4	50
+Épée des douze Esprits+5	40
+Épée des douze Esprits+6	30
+Épée des douze Esprits+7	20
+Épée des douze Esprits+8	10
+Lame du salut+0	60
+Lame du salut+1	50
+Lame du salut+2	40
+Lame du salut+3	30
+Lame du salut+4	50
+Lame du salut+5	40
+Lame du salut+6	30
+Lame du salut+7	20
+Lame du salut+8	10
+Tueuse de lion+0	60
+Tueuse de lion+1	50
+Tueuse de lion+2	40
+Tueuse de lion+3	30
+Tueuse de lion+4	50
+Tueuse de lion+5	40
+Tueuse de lion+6	30
+Tueuse de lion+7	20
+Tueuse de lion+8	10
+Partisan+0	60
+Partisan+1	50
+Partisan+2	40
+Partisan+3	30
+Partisan+4	50
+Partisan+5	40
+Partisan+6	30
+Partisan+7	20
+Partisan+8	10
+Lame électromagnétique+0	60
+Lame électromagnétique+1	50
+Lame électromagnétique+2	40
+Lame électromagnétique+3	30
+Lame électromagnétique+4	50
+Lame électromagnétique+5	40
+Lame électromagnétique+6	30
+Lame électromagnétique+7	20
+Lame électromagnétique+8	10
+Lame voleuse d'âme+0	60
+Lame voleuse d'âme+1	50
+Lame voleuse d'âme+2	40
+Lame voleuse d'âme+3	30
+Lame voleuse d'âme+4	50
+Lame voleuse d'âme+5	40
+Lame voleuse d'âme+6	30
+Lame voleuse d'âme+7	20
+Lame voleuse d'âme+8	10
+Lame voleuse d'âme+9	100
+Épée de rancune+0	60
+Épée de rancune+1	50
+Épée de rancune+2	40
+Épée de rancune+3	30
+Épée de rancune+4	50
+Épée de rancune+5	40
+Épée de rancune+6	30
+Épée de rancune+7	20
+Épée de rancune+8	10
+Tueuse de Dragon jaune+0	60
+Tueuse de Dragon jaune+1	50
+Tueuse de Dragon jaune+2	40
+Tueuse de Dragon jaune+3	30
+Tueuse de Dragon jaune+4	50
+Tueuse de Dragon jaune+5	40
+Tueuse de Dragon jaune+6	30
+Tueuse de Dragon jaune+7	20
+Tueuse de Dragon jaune+8	10
+Tueuse de Dragon bleu+0	60
+Tueuse de Dragon bleu+1	50
+Tueuse de Dragon bleu+2	40
+Tueuse de Dragon bleu+3	30
+Tueuse de Dragon bleu+4	50
+Tueuse de Dragon bleu+5	40
+Tueuse de Dragon bleu+6	30
+Tueuse de Dragon bleu+7	20
+Tueuse de Dragon bleu+8	10
+Lame solaire +0	100
+Lame solaire +1	80
+Lame solaire +2	45
+Lame solaire +3	25
+Lame solaire +4	15
+Lame solaire +5	8
+Lame solaire +6	5
+Lame solaire +7	2
+Lame solaire +8	1
+Lame solaire +9	100
+Lame du dieu dragon+0	60
+Lame du dieu dragon+1	50
+Lame du dieu dragon+2	40
+Lame du dieu dragon+3	30
+Lame du dieu dragon+4	50
+Lame du dieu dragon+5	40
+Lame du dieu dragon+6	30
+Lame du dieu dragon+7	20
+Lame du dieu dragon+8	10
+Lame de fer rouge+0	100
+Lame de fer rouge+1	90
+Lame de fer rouge+2	90
+Lame de fer rouge+3	80
+Lame de fer rouge+4	70
+Lame de fer rouge+5	60
+Lame de fer rouge+6	50
+Lame de fer rouge+7	40
+Lame de fer rouge+8	30
+Glaive du zodiaque+0	90
+Glaive du zodiaque+1	75
+Glaive du zodiaque+2	60
+Glaive du zodiaque+3	45
+Glaive du zodiaque+4	30
+Glaive du zodiaque+5	20
+Glaive du zodiaque+6	10
+Glaive du zodiaque+7	8
+Glaive du zodiaque+8	3
+Lame du dragon obscur+0	90
+Lame du dragon obscur+1	75
+Lame du dragon obscur+2	60
+Lame du dragon obscur+3	50
+Lame du dragon obscur+4	40
+Lame du dragon obscur+5	30
+Lame du dragon obscur+6	25
+Lame du dragon obscur+7	15
+Lame du dragon obscur+8	8
+Lame du dragon obscur+9	5
+Lame du dragon obscur+10	5
+Lame du dragon obscur+11	5
+Lame du dragon obscur+12	5
+Lame du dragon obscur+13	3
+Lame du dragon obscur+14	3
+Grande épée serpent +0	90
+Grande épée serpent +1	75
+Grande épée serpent +2	60
+Grande épée serpent +3	50
+Grande épée serpent +4	40
+Grande épée serpent +5	30
+Grande épée serpent +6	25
+Grande épée serpent +7	15
+Grande épée serpent +8	8
+Grande épée serpent +9	5
+Grande épée serpent +10	5
+Grande épée serpent +11	5
+Grande épée serpent +12	5
+Grande épée serpent +13	3
+Grande épée serpent +14	3
+Lame de kyanite +0	100
+Lame de kyanite +1	70
+Lame de kyanite +2	55
+Lame de kyanite +3	45
+Lame de kyanite +4	30
+Lame de kyanite +5	20
+Lame de kyanite +6	10
+Lame de kyanite +7	8
+Lame de kyanite +8	3
+Amija+0	100
+Amija+1	90
+Amija+2	90
+Amija+3	90
+Amija+4	80
+Amija+5	60
+Amija+6	50
+Amija+7	40
+Amija+8	30
+Neuf Lames+0	100
+Neuf Lames+1	90
+Neuf Lames+2	90
+Neuf Lames+3	90
+Neuf Lames+4	80
+Neuf Lames+5	60
+Neuf Lames+6	50
+Neuf Lames+7	40
+Neuf Lames+8	30
+Couteau court+0	100
+Couteau court+1	90
+Couteau court+2	90
+Couteau court+3	80
+Couteau court+4	70
+Couteau court+5	60
+Couteau court+6	50
+Couteau court+7	40
+Couteau court+8	30
+Poig. Jumeau Lunaire+0	100
+Poig. Jumeau Lunaire+1	90
+Poig. Jumeau Lunaire+2	90
+Poig. Jumeau Lunaire+3	80
+Poig. Jumeau Lunaire+4	70
+Poig. Jumeau Lunaire+5	60
+Poig. Jumeau Lunaire+6	50
+Poig. Jumeau Lunaire+7	40
+Poig. Jumeau Lunaire+8	30
+Couteau sans âme+0	100
+Couteau sans âme+1	90
+Couteau sans âme+2	80
+Couteau sans âme+3	70
+Couteau sans âme+4	60
+Couteau sans âme+5	50
+Couteau sans âme+6	40
+Couteau sans âme+7	30
+Couteau sans âme+8	30
+Couteau sans âme+9	100
+Gong de cuivre+0	100
+Gong de cuivre+1	90
+Gong de cuivre+2	90
+Gong de cuivre+3	90
+Gong de cuivre+4	80
+Gong de cuivre+5	60
+Gong de cuivre+6	50
+Gong de cuivre+7	40
+Gong de cuivre+8	30
+Gong d'argent+0	100
+Gong d'argent+1	90
+Gong d'argent+2	90
+Gong d'argent+3	90
+Gong d'argent+4	80
+Gong d'argent+5	60
+Gong d'argent+6	50
+Gong d'argent+7	40
+Gong d'argent+8	30
+Gong d'or+0	100
+Gong d'or+1	90
+Gong d'or+2	90
+Gong d'or+3	90
+Gong d'or+4	80
+Gong d'or+5	60
+Gong d'or+6	50
+Gong d'or+7	40
+Gong d'or+8	30
+Gong de jade+0	100
+Gong de jade+1	90
+Gong de jade+2	90
+Gong de jade+3	80
+Gong de jade+4	70
+Gong de jade+5	60
+Gong de jade+6	50
+Gong de jade+7	40
+Gong de jade+8	30
+Gong de fontaine+0	100
+Gong de fontaine+1	90
+Gong de fontaine+2	90
+Gong de fontaine+3	80
+Gong de fontaine+4	70
+Gong de fontaine+5	60
+Gong de fontaine+6	50
+Gong de fontaine+7	40
+Gong de fontaine+8	30
+Gong abricot+0	100
+Gong abricot+1	90
+Gong abricot+2	90
+Gong abricot+3	80
+Gong abricot+4	70
+Gong abricot+5	60
+Gong abricot+6	50
+Gong abricot+7	40
+Gong abricot+8	30
+Gong magique+0	100
+Gong magique+1	80
+Gong magique+2	70
+Gong magique+3	60
+Gong magique+4	50
+Gong magique+5	40
+Gong magique+6	30
+Gong magique+7	20
+Gong magique+8	10
+Gong d'insecte d'or+0	100
+Gong d'insecte d'or+1	80
+Gong d'insecte d'or+2	70
+Gong d'insecte d'or+3	60
+Gong d'insecte d'or+4	50
+Gong d'insecte d'or+5	40
+Gong d'insecte d'or+6	30
+Gong d'insecte d'or+7	20
+Gong d'insecte d'or+8	10
+Gong d'insecte d'acier+0	100
+Gong d'insecte d'acier+1	80
+Gong d'insecte d'acier+2	70
+Gong d'insecte d'acier+3	60
+Gong d'insecte d'acier+4	50
+Gong d'insecte d'acier+5	40
+Gong d'insecte d'acier+6	30
+Gong d'insecte d'acier+7	20
+Gong d'insecte d'acier+8	10
+Gong oiseau tonnerre+0	100
+Gong oiseau tonnerre+1	80
+Gong oiseau tonnerre+2	70
+Gong oiseau tonnerre+3	60
+Gong oiseau tonnerre+4	50
+Gong oiseau tonnerre+5	40
+Gong oiseau tonnerre+6	30
+Gong oiseau tonnerre+7	20
+Gong oiseau tonnerre+8	10
+Gong terre et ciel+0	100
+Gong terre et ciel+1	80
+Gong terre et ciel+2	70
+Gong terre et ciel+3	60
+Gong terre et ciel+4	50
+Gong terre et ciel+5	40
+Gong terre et ciel+6	30
+Gong terre et ciel+7	20
+Gong terre et ciel+8	10
+Gong antique+0	100
+Gong antique+1	90
+Gong antique+2	90
+Gong antique+3	80
+Gong antique+4	70
+Gong antique+5	60
+Gong antique+6	50
+Gong antique+7	40
+Gong antique+8	30
+Gong de bambou+0	100
+Gong de bambou+1	80
+Gong de bambou+2	70
+Gong de bambou+3	60
+Gong de bambou+4	50
+Gong de bambou+5	40
+Gong de bambou+6	30
+Gong de bambou+7	20
+Gong de bambou+8	10
+Gong sinistre évent.+0	100
+Gong sinistre évent.+1	80
+Gong sinistre évent.+2	70
+Gong sinistre évent.+3	60
+Gong sinistre évent.+4	50
+Gong sinistre évent.+5	40
+Gong sinistre évent.+6	30
+Gong sinistre évent.+7	20
+Gong sinistre évent.+8	10
+Gong du dragon+0	100
+Gong du dragon+1	80
+Gong du dragon+2	70
+Gong du dragon+3	60
+Gong du dragon+4	50
+Gong du dragon+5	40
+Gong du dragon+6	30
+Gong du dragon+7	20
+Gong du dragon+8	10
+Gong de l'hibiscus+0	100
+Gong de l'hibiscus+1	80
+Gong de l'hibiscus+2	70
+Gong de l'hibiscus+3	60
+Gong de l'hibiscus+4	50
+Gong de l'hibiscus+5	40
+Gong de l'hibiscus+6	30
+Gong de l'hibiscus+7	20
+Gong de l'hibiscus+8	10
+Cloche du zodiaque+0	90
+Cloche du zodiaque+1	75
+Cloche du zodiaque+2	60
+Cloche du zodiaque+3	45
+Cloche du zodiaque+4	30
+Cloche du zodiaque+5	20
+Cloche du zodiaque+6	10
+Cloche du zodiaque+7	8
+Cloche du zodiaque+8	3
+Gong du dragon obscur+0	90
+Gong du dragon obscur+1	75
+Gong du dragon obscur+2	60
+Gong du dragon obscur+3	50
+Gong du dragon obscur+4	40
+Gong du dragon obscur+5	30
+Gong du dragon obscur+6	25
+Gong du dragon obscur+7	15
+Gong du dragon obscur+8	8
+Gong du dragon obscur+9	5
+Gong du dragon obscur+10	5
+Gong du dragon obscur+11	5
+Gong du dragon obscur+12	5
+Gong du dragon obscur+13	3
+Gong du dragon obscur+14	3
+Cloche serpent +0	90
+Cloche serpent +1	75
+Cloche serpent +2	60
+Cloche serpent +3	50
+Cloche serpent +4	40
+Cloche serpent +5	30
+Cloche serpent +6	25
+Cloche serpent +7	15
+Cloche serpent +8	8
+Cloche serpent +9	5
+Cloche serpent +10	5
+Cloche serpent +11	5
+Cloche serpent +12	5
+Cloche serpent +13	3
+Cloche serpent +14	3
+Gong Gueule de Dragon +0	100
+Gong Gueule de Dragon +1	90
+Gong Gueule de Dragon +2	80
+Gong Gueule de Dragon +3	70
+Gong Gueule de Dragon +4	60
+Gong Gueule de Dragon +5	50
+Gong Gueule de Dragon +6	40
+Gong Gueule de Dragon +7	30
+Gong Gueule de Dragon +8	30
+Gong Gueule de Dragon +9	100
+Cloche d'esprit dragon+0	100
+Cloche d'esprit dragon+1	80
+Cloche d'esprit dragon+2	45
+Cloche d'esprit dragon+3	25
+Cloche d'esprit dragon+4	15
+Cloche d'esprit dragon+5	8
+Cloche d'esprit dragon+6	5
+Cloche d'esprit dragon+7	2
+Cloche d'esprit dragon+8	1
+Cloche d'esprit dragon+9	100
+Gong de kyanite +0	100
+Gong de kyanite +1	70
+Gong de kyanite +2	55
+Gong de kyanite +3	45
+Gong de kyanite +4	30
+Gong de kyanite +5	20
+Gong de kyanite +6	10
+Gong de kyanite +7	8
+Gong de kyanite +8	3
+Flambeau d'acier+0	100
+Flambeau d'acier+1	90
+Flambeau d'acier+2	90
+Flambeau d'acier+3	90
+Flambeau d'acier+4	80
+Flambeau d'acier+5	60
+Flambeau d'acier+6	50
+Flambeau d'acier+7	40
+Flambeau d'acier+8	30
+Lance de phoenix+0	100
+Lance de phoenix+1	90
+Lance de phoenix+2	90
+Lance de phoenix+3	80
+Lance de phoenix+4	70
+Lance de phoenix+5	60
+Lance de phoenix+6	50
+Lance de phoenix+7	40
+Lance de phoenix+8	30
+Griffe de fer+0	100
+Griffe de fer+1	90
+Griffe de fer+2	90
+Griffe de fer+3	80
+Griffe de fer+4	70
+Griffe de fer+5	60
+Griffe de fer+6	50
+Griffe de fer+7	40
+Griffe de fer+8	30
+Griffe d'acier+0	100
+Griffe d'acier+1	80
+Griffe d'acier+2	70
+Griffe d'acier+3	60
+Griffe d'acier+4	50
+Griffe d'acier+5	40
+Griffe d'acier+6	30
+Griffe d'acier+7	20
+Griffe d'acier+8	10
+Griffe prédatrice+0	100
+Griffe prédatrice+1	80
+Griffe prédatrice+2	70
+Griffe prédatrice+3	60
+Griffe prédatrice+4	50
+Griffe prédatrice+5	40
+Griffe prédatrice+6	30
+Griffe prédatrice+7	20
+Griffe prédatrice+8	10
+Griffe de scarabée+0	100
+Griffe de scarabée+1	80
+Griffe de scarabée+2	70
+Griffe de scarabée+3	60
+Griffe de scarabée+4	50
+Griffe de scarabée+5	40
+Griffe de scarabée+6	30
+Griffe de scarabée+7	20
+Griffe de scarabée+8	10
+Griffe de faucon+0	100
+Griffe de faucon+1	80
+Griffe de faucon+2	70
+Griffe de faucon+3	60
+Griffe de faucon+4	50
+Griffe de faucon+5	40
+Griffe de faucon+6	30
+Griffe de faucon+7	20
+Griffe de faucon+8	10
+Griffe épineuse+0	100
+Griffe épineuse+1	80
+Griffe épineuse+2	70
+Griffe épineuse+3	60
+Griffe épineuse+4	50
+Griffe épineuse+5	40
+Griffe épineuse+6	30
+Griffe épineuse+7	20
+Griffe épineuse+8	10
+Croc de loup vert+0	100
+Croc de loup vert+1	80
+Croc de loup vert+2	70
+Croc de loup vert+3	60
+Croc de loup vert+4	50
+Croc de loup vert+5	40
+Croc de loup vert+6	30
+Croc de loup vert+7	20
+Croc de loup vert+8	10
+Croc de loup vert+9	100
+Seigneur des dragons+0	100
+Seigneur des dragons+1	80
+Seigneur des dragons+2	45
+Seigneur des dragons+3	25
+Seigneur des dragons+4	15
+Seigneur des dragons+5	8
+Seigneur des dragons+6	5
+Seigneur des dragons+7	2
+Seigneur des dragons+8	1
+Seigneur des dragons+9	100
+Griffe du zodiaque+0	90
+Griffe du zodiaque+1	75
+Griffe du zodiaque+2	60
+Griffe du zodiaque+3	45
+Griffe du zodiaque+4	30
+Griffe du zodiaque+5	20
+Griffe du zodiaque+6	10
+Griffe du zodiaque+7	8
+Griffe du zodiaque+8	3
+Griffe du dragon obs.+0	90
+Griffe du dragon obs.+1	75
+Griffe du dragon obs.+2	60
+Griffe du dragon obs.+3	50
+Griffe du dragon obs.+4	40
+Griffe du dragon obs.+5	30
+Griffe du dragon obs.+6	25
+Griffe du dragon obs.+7	15
+Griffe du dragon obs.+8	8
+Griffe du dragon obs.+9	5
+Griffe du dragon obs.+10	5
+Griffe du dragon obs.+11	5
+Griffe du dragon obs.+12	5
+Griffe du dragon obs.+13	3
+Griffe du dragon obs.+14	3
+Griffe de serpent +0	90
+Griffe de serpent +1	75
+Griffe de serpent +2	60
+Griffe de serpent +3	50
+Griffe de serpent +4	40
+Griffe de serpent +5	30
+Griffe de serpent +6	25
+Griffe de serpent +7	15
+Griffe de serpent +8	8
+Griffe de serpent +9	5
+Griffe de serpent +10	5
+Griffe de serpent +11	5
+Griffe de serpent +12	5
+Griffe de serpent +13	3
+Griffe de serpent +14	3
+Griffe de kyanite +0	100
+Griffe de kyanite +1	70
+Griffe de kyanite +2	55
+Griffe de kyanite +3	45
+Griffe de kyanite +4	30
+Griffe de kyanite +5	20
+Griffe de kyanite +6	10
+Griffe de kyanite +7	8
+Griffe de kyanite +8	3
+Éventail+0	100
+Éventail+1	90
+Éventail+2	90
+Éventail+3	90
+Éventail+4	80
+Éventail+5	60
+Éventail+6	50
+Éventail+7	40
+Éventail+8	30
+Éventail de fer+0	100
+Éventail de fer+1	90
+Éventail de fer+2	90
+Éventail de fer+3	90
+Éventail de fer+4	80
+Éventail de fer+5	60
+Éventail de fer+6	50
+Éventail de fer+7	40
+Éventail de fer+8	30
+Éventail du tigre noir+0	100
+Éventail du tigre noir+1	90
+Éventail du tigre noir+2	90
+Éventail du tigre noir+3	90
+Éventail du tigre noir+4	80
+Éventail du tigre noir+5	60
+Éventail du tigre noir+6	50
+Éventail du tigre noir+7	40
+Éventail du tigre noir+8	30
+Éventail aile de grue+0	100
+Éventail aile de grue+1	90
+Éventail aile de grue+2	90
+Éventail aile de grue+3	90
+Éventail aile de grue+4	80
+Éventail aile de grue+5	60
+Éventail aile de grue+6	50
+Éventail aile de grue+7	40
+Éventail aile de grue+8	30
+Éventail du paon+0	100
+Éventail du paon+1	90
+Éventail du paon+2	90
+Éventail du paon+3	90
+Éventail du paon+4	80
+Éventail du paon+5	60
+Éventail du paon+6	50
+Éventail du paon+7	40
+Éventail du paon+8	30
+Éventail aquatique+0	100
+Éventail aquatique+1	90
+Éventail aquatique+2	90
+Éventail aquatique+3	80
+Éventail aquatique+4	70
+Éventail aquatique+5	60
+Éventail aquatique+6	50
+Éventail aquatique+7	40
+Éventail aquatique+8	30
+Éventail de pierre+0	100
+Éventail de pierre+1	90
+Éventail de pierre+2	90
+Éventail de pierre+3	80
+Éventail de pierre+4	70
+Éventail de pierre+5	60
+Éventail de pierre+6	50
+Éventail de pierre+7	40
+Éventail de pierre+8	30
+Éventail de l'océan+0	100
+Éventail de l'océan+1	90
+Éventail de l'océan+2	90
+Éventail de l'océan+3	80
+Éventail de l'océan+4	70
+Éventail de l'océan+5	60
+Éventail de l'océan+6	50
+Éventail de l'océan+7	40
+Éventail de l'océan+8	30
+Éventail de piqûre+0	100
+Éventail de piqûre+1	90
+Éventail de piqûre+2	90
+Éventail de piqûre+3	80
+Éventail de piqûre+4	70
+Éventail de piqûre+5	60
+Éventail de piqûre+6	50
+Éventail de piqûre+7	40
+Éventail de piqûre+8	30
+Éventail du phoenix+0	100
+Éventail du phoenix+1	80
+Éventail du phoenix+2	70
+Éventail du phoenix+3	60
+Éventail du phoenix+4	50
+Éventail du phoenix+5	40
+Éventail du phoenix+6	30
+Éventail du phoenix+7	20
+Éventail du phoenix+8	10
+Éventail triple+0	100
+Éventail triple+1	80
+Éventail triple+2	70
+Éventail triple+3	60
+Éventail triple+4	50
+Éventail triple+5	40
+Éventail triple+6	30
+Éventail triple+7	20
+Éventail triple+8	10
+Éventails de cils+0	100
+Éventails de cils+1	80
+Éventails de cils+2	70
+Éventails de cils+3	60
+Éventails de cils+4	50
+Éventails de cils+5	40
+Éventails de cils+6	30
+Éventails de cils+7	20
+Éventails de cils+8	10
+Éventail soleil noir+0	100
+Éventail soleil noir+1	80
+Éventail soleil noir+2	70
+Éventail soleil noir+3	60
+Éventail soleil noir+4	50
+Éventail soleil noir+5	40
+Éventail soleil noir+6	30
+Éventail soleil noir+7	20
+Éventail soleil noir+8	10
+Event. oiseau céleste+0	100
+Event. oiseau céleste+1	80
+Event. oiseau céleste+2	70
+Event. oiseau céleste+3	60
+Event. oiseau céleste+4	50
+Event. oiseau céleste+5	40
+Event. oiseau céleste+6	30
+Event. oiseau céleste+7	20
+Event. oiseau céleste+8	10
+Éventail du salut+0	100
+Éventail du salut+1	80
+Éventail du salut+2	70
+Éventail du salut+3	60
+Éventail du salut+4	50
+Éventail du salut+5	40
+Éventail du salut+6	30
+Éventail du salut+7	20
+Éventail du salut+8	10
+Éventail d'extase+0	100
+Éventail d'extase+1	80
+Éventail d'extase+2	70
+Éventail d'extase+3	60
+Éventail d'extase+4	50
+Éventail d'extase+5	40
+Éventail d'extase+6	30
+Éventail d'extase+7	20
+Éventail d'extase+8	10
+Éventail vent d'autom.+0	100
+Éventail vent d'autom.+1	90
+Éventail vent d'autom.+2	90
+Éventail vent d'autom.+3	80
+Éventail vent d'autom.+4	70
+Éventail vent d'autom.+5	60
+Éventail vent d'autom.+6	50
+Éventail vent d'autom.+7	40
+Éventail vent d'autom.+8	30
+Event. des 8 trigram.+0	100
+Event. des 8 trigram.+1	80
+Event. des 8 trigram.+2	70
+Event. des 8 trigram.+3	60
+Event. des 8 trigram.+4	50
+Event. des 8 trigram.+5	40
+Event. des 8 trigram.+6	30
+Event. des 8 trigram.+7	20
+Event. des 8 trigram.+8	10
+Event. dragon couché+0	100
+Event. dragon couché+1	80
+Event. dragon couché+2	70
+Event. dragon couché+3	60
+Event. dragon couché+4	50
+Event. dragon couché+5	40
+Event. dragon couché+6	30
+Event. dragon couché+7	20
+Event. dragon couché+8	10
+Éventail démoniaque +0	100
+Éventail démoniaque +1	90
+Éventail démoniaque +2	80
+Éventail démoniaque +3	70
+Éventail démoniaque +4	60
+Éventail démoniaque +5	50
+Éventail démoniaque +6	40
+Éventail démoniaque +7	30
+Éventail démoniaque +8	30
+Éventail démoniaque +9	100
+Éventail du zodiaque+0	90
+Éventail du zodiaque+1	75
+Éventail du zodiaque+2	60
+Éventail du zodiaque+3	45
+Éventail du zodiaque+4	30
+Éventail du zodiaque+5	20
+Éventail du zodiaque+6	10
+Éventail du zodiaque+7	8
+Éventail du zodiaque+8	3
+Évent. dragon obscur+0	90
+Évent. dragon obscur+1	75
+Évent. dragon obscur+2	60
+Évent. dragon obscur+3	50
+Évent. dragon obscur+4	40
+Évent. dragon obscur+5	30
+Évent. dragon obscur+6	25
+Évent. dragon obscur+7	15
+Évent. dragon obscur+8	8
+Évent. dragon obscur+9	5
+Évent. dragon obscur+10	5
+Évent. dragon obscur+11	5
+Évent. dragon obscur+12	5
+Évent. dragon obscur+13	3
+Évent. dragon obscur+14	3
+Éventail serpent +0	90
+Éventail serpent +1	75
+Éventail serpent +2	60
+Éventail serpent +3	50
+Éventail serpent +4	40
+Éventail serpent +5	30
+Éventail serpent +6	25
+Éventail serpent +7	15
+Éventail serpent +8	8
+Éventail serpent +9	5
+Éventail serpent +10	5
+Éventail serpent +11	5
+Éventail serpent +12	5
+Éventail serpent +13	3
+Éventail serpent +14	3
+Event. dragon couché+0	100
+Event. dragon couché+1	80
+Event. dragon couché+2	45
+Event. dragon couché+3	25
+Event. dragon couché+4	15
+Event. dragon couché+5	8
+Event. dragon couché+6	5
+Event. dragon couché+7	2
+Event. dragon couché+8	1
+Event. dragon couché+9	100
+Éventail de kyanite +0	100
+Éventail de kyanite +1	70
+Éventail de kyanite +2	55
+Éventail de kyanite +3	45
+Éventail de kyanite +4	30
+Éventail de kyanite +5	20
+Éventail de kyanite +6	10
+Éventail de kyanite +7	8
+Éventail de kyanite +8	3
+Talisman du feu+0	55
+Talisman du feu+1	50
+Talisman du feu+2	45
+Talisman du feu+3	40
+Talisman du feu+4	35
+Talisman du feu+5	30
+Talisman du feu+6	25
+Talisman du feu+7	20
+Talisman du feu+8	15
+Talisman du feu+9	10
+Talisman du feu+10	55
+Talisman du feu+11	50
+Talisman du feu+12	45
+Talisman du feu+13	40
+Talisman du feu+14	35
+Talisman du feu+15	30
+Talisman du feu+16	25
+Talisman du feu+17	20
+Talisman du feu+18	15
+Talisman du feu+19	10
+Talisman du feu+20	55
+Talisman du feu+21	50
+Talisman du feu+22	45
+Talisman du feu+23	40
+Talisman du feu+24	35
+Talisman du feu+25	30
+Talisman du feu+26	25
+Talisman du feu+27	20
+Talisman du feu+28	15
+Talisman du feu+29	10
+Talisman du feu+30	55
+Talisman du feu+31	50
+Talisman du feu+32	45
+Talisman du feu+33	40
+Talisman du feu+34	35
+Talisman du feu+35	30
+Talisman du feu+36	25
+Talisman du feu+37	20
+Talisman du feu+38	15
+Talisman du feu+39	10
+Talisman du feu+40	55
+Talisman du feu+41	50
+Talisman du feu+42	45
+Talisman du feu+43	40
+Talisman du feu+44	35
+Talisman du feu+45	30
+Talisman du feu+46	25
+Talisman du feu+47	20
+Talisman du feu+48	15
+Talisman du feu+49	10
+Talisman du feu+50	55
+Talisman du feu+51	50
+Talisman du feu+52	45
+Talisman du feu+53	40
+Talisman du feu+54	35
+Talisman du feu+55	30
+Talisman du feu+56	25
+Talisman du feu+57	20
+Talisman du feu+58	15
+Talisman du feu+59	10
+Talisman du feu+60	55
+Talisman du feu+61	50
+Talisman du feu+62	45
+Talisman du feu+63	40
+Talisman du feu+64	35
+Talisman du feu+65	30
+Talisman du feu+66	25
+Talisman du feu+67	20
+Talisman du feu+68	15
+Talisman du feu+69	10
+Talisman du feu+70	55
+Talisman du feu+71	50
+Talisman du feu+72	45
+Talisman du feu+73	40
+Talisman du feu+74	35
+Talisman du feu+75	30
+Talisman du feu+76	25
+Talisman du feu+77	20
+Talisman du feu+78	15
+Talisman du feu+79	10
+Talisman du feu+80	55
+Talisman du feu+81	50
+Talisman du feu+82	45
+Talisman du feu+83	40
+Talisman du feu+84	35
+Talisman du feu+85	30
+Talisman du feu+86	25
+Talisman du feu+87	20
+Talisman du feu+88	15
+Talisman du feu+89	10
+Talisman du feu+90	55
+Talisman du feu+91	50
+Talisman du feu+92	45
+Talisman du feu+93	40
+Talisman du feu+94	35
+Talisman du feu+95	30
+Talisman du feu+96	25
+Talisman du feu+97	20
+Talisman du feu+98	15
+Talisman du feu+99	10
+Talisman du feu+100	55
+Talisman du feu+101	50
+Talisman du feu+102	45
+Talisman du feu+103	40
+Talisman du feu+104	35
+Talisman du feu+105	30
+Talisman du feu+106	25
+Talisman du feu+107	20
+Talisman du feu+108	15
+Talisman du feu+109	10
+Talisman du feu+110	55
+Talisman du feu+111	50
+Talisman du feu+112	45
+Talisman du feu+113	40
+Talisman du feu+114	35
+Talisman du feu+115	30
+Talisman du feu+116	25
+Talisman du feu+117	20
+Talisman du feu+118	15
+Talisman du feu+119	10
+Talisman du feu+120	55
+Talisman du feu+121	50
+Talisman du feu+122	45
+Talisman du feu+123	40
+Talisman du feu+124	35
+Talisman du feu+125	30
+Talisman du feu+126	25
+Talisman du feu+127	20
+Talisman du feu+128	15
+Talisman du feu+129	10
+Talisman du feu+130	55
+Talisman du feu+131	50
+Talisman du feu+132	45
+Talisman du feu+133	40
+Talisman du feu+134	35
+Talisman du feu+135	30
+Talisman du feu+136	25
+Talisman du feu+137	20
+Talisman du feu+138	15
+Talisman du feu+139	10
+Talisman du feu+140	55
+Talisman du feu+141	50
+Talisman du feu+142	45
+Talisman du feu+143	40
+Talisman du feu+144	35
+Talisman du feu+145	30
+Talisman du feu+146	25
+Talisman du feu+147	20
+Talisman du feu+148	15
+Talisman du feu+149	10
+Talisman du feu+150	55
+Talisman du feu+151	50
+Talisman du feu+152	45
+Talisman du feu+153	40
+Talisman du feu+154	35
+Talisman du feu+155	30
+Talisman du feu+156	25
+Talisman du feu+157	20
+Talisman du feu+158	15
+Talisman du feu+159	10
+Talisman du feu+160	55
+Talisman du feu+161	50
+Talisman du feu+162	45
+Talisman du feu+163	40
+Talisman du feu+164	35
+Talisman du feu+165	30
+Talisman du feu+166	25
+Talisman du feu+167	20
+Talisman du feu+168	15
+Talisman du feu+169	10
+Talisman du feu+170	55
+Talisman du feu+171	50
+Talisman du feu+172	45
+Talisman du feu+173	40
+Talisman du feu+174	35
+Talisman du feu+175	30
+Talisman du feu+176	25
+Talisman du feu+177	20
+Talisman du feu+178	15
+Talisman du feu+179	10
+Talisman du feu+180	55
+Talisman du feu+181	50
+Talisman du feu+182	45
+Talisman du feu+183	40
+Talisman du feu+184	35
+Talisman du feu+185	30
+Talisman du feu+186	25
+Talisman du feu+187	20
+Talisman du feu+188	15
+Talisman du feu+189	10
+Talisman du feu+190	55
+Talisman du feu+191	50
+Talisman du feu+192	45
+Talisman du feu+193	40
+Talisman du feu+194	35
+Talisman du feu+195	30
+Talisman du feu+196	25
+Talisman du feu+197	20
+Talisman du feu+198	15
+Talisman du feu+199	10
+Talisman de glace+0	55
+Talisman de glace+1	50
+Talisman de glace+2	45
+Talisman de glace+3	40
+Talisman de glace+4	35
+Talisman de glace+5	30
+Talisman de glace+6	25
+Talisman de glace+7	20
+Talisman de glace+8	15
+Talisman de glace+9	10
+Talisman de glace+10	55
+Talisman de glace+11	50
+Talisman de glace+12	45
+Talisman de glace+13	40
+Talisman de glace+14	35
+Talisman de glace+15	30
+Talisman de glace+16	25
+Talisman de glace+17	20
+Talisman de glace+18	15
+Talisman de glace+19	10
+Talisman de glace+20	55
+Talisman de glace+21	50
+Talisman de glace+22	45
+Talisman de glace+23	40
+Talisman de glace+24	35
+Talisman de glace+25	30
+Talisman de glace+26	25
+Talisman de glace+27	20
+Talisman de glace+28	15
+Talisman de glace+29	10
+Talisman de glace+30	55
+Talisman de glace+31	50
+Talisman de glace+32	45
+Talisman de glace+33	40
+Talisman de glace+34	35
+Talisman de glace+35	30
+Talisman de glace+36	25
+Talisman de glace+37	20
+Talisman de glace+38	15
+Talisman de glace+39	10
+Talisman de glace+40	55
+Talisman de glace+41	50
+Talisman de glace+42	45
+Talisman de glace+43	40
+Talisman de glace+44	35
+Talisman de glace+45	30
+Talisman de glace+46	25
+Talisman de glace+47	20
+Talisman de glace+48	15
+Talisman de glace+49	10
+Talisman de glace+50	55
+Talisman de glace+51	50
+Talisman de glace+52	45
+Talisman de glace+53	40
+Talisman de glace+54	35
+Talisman de glace+55	30
+Talisman de glace+56	25
+Talisman de glace+57	20
+Talisman de glace+58	15
+Talisman de glace+59	10
+Talisman de glace+60	55
+Talisman de glace+61	50
+Talisman de glace+62	45
+Talisman de glace+63	40
+Talisman de glace+64	35
+Talisman de glace+65	30
+Talisman de glace+66	25
+Talisman de glace+67	20
+Talisman de glace+68	15
+Talisman de glace+69	10
+Talisman de glace+70	55
+Talisman de glace+71	50
+Talisman de glace+72	45
+Talisman de glace+73	40
+Talisman de glace+74	35
+Talisman de glace+75	30
+Talisman de glace+76	25
+Talisman de glace+77	20
+Talisman de glace+78	15
+Talisman de glace+79	10
+Talisman de glace+80	55
+Talisman de glace+81	50
+Talisman de glace+82	45
+Talisman de glace+83	40
+Talisman de glace+84	35
+Talisman de glace+85	30
+Talisman de glace+86	25
+Talisman de glace+87	20
+Talisman de glace+88	15
+Talisman de glace+89	10
+Talisman de glace+90	55
+Talisman de glace+91	50
+Talisman de glace+92	45
+Talisman de glace+93	40
+Talisman de glace+94	35
+Talisman de glace+95	30
+Talisman de glace+96	25
+Talisman de glace+97	20
+Talisman de glace+98	15
+Talisman de glace+99	10
+Talisman de glace+100	55
+Talisman de glace+101	50
+Talisman de glace+102	45
+Talisman de glace+103	40
+Talisman de glace+104	35
+Talisman de glace+105	30
+Talisman de glace+106	25
+Talisman de glace+107	20
+Talisman de glace+108	15
+Talisman de glace+109	10
+Talisman de glace+110	55
+Talisman de glace+111	50
+Talisman de glace+112	45
+Talisman de glace+113	40
+Talisman de glace+114	35
+Talisman de glace+115	30
+Talisman de glace+116	25
+Talisman de glace+117	20
+Talisman de glace+118	15
+Talisman de glace+119	10
+Talisman de glace+120	55
+Talisman de glace+121	50
+Talisman de glace+122	45
+Talisman de glace+123	40
+Talisman de glace+124	35
+Talisman de glace+125	30
+Talisman de glace+126	25
+Talisman de glace+127	20
+Talisman de glace+128	15
+Talisman de glace+129	10
+Talisman de glace+130	55
+Talisman de glace+131	50
+Talisman de glace+132	45
+Talisman de glace+133	40
+Talisman de glace+134	35
+Talisman de glace+135	30
+Talisman de glace+136	25
+Talisman de glace+137	20
+Talisman de glace+138	15
+Talisman de glace+139	10
+Talisman de glace+140	55
+Talisman de glace+141	50
+Talisman de glace+142	45
+Talisman de glace+143	40
+Talisman de glace+144	35
+Talisman de glace+145	30
+Talisman de glace+146	25
+Talisman de glace+147	20
+Talisman de glace+148	15
+Talisman de glace+149	10
+Talisman de glace+150	55
+Talisman de glace+151	50
+Talisman de glace+152	45
+Talisman de glace+153	40
+Talisman de glace+154	35
+Talisman de glace+155	30
+Talisman de glace+156	25
+Talisman de glace+157	20
+Talisman de glace+158	15
+Talisman de glace+159	10
+Talisman de glace+160	55
+Talisman de glace+161	50
+Talisman de glace+162	45
+Talisman de glace+163	40
+Talisman de glace+164	35
+Talisman de glace+165	30
+Talisman de glace+166	25
+Talisman de glace+167	20
+Talisman de glace+168	15
+Talisman de glace+169	10
+Talisman de glace+170	55
+Talisman de glace+171	50
+Talisman de glace+172	45
+Talisman de glace+173	40
+Talisman de glace+174	35
+Talisman de glace+175	30
+Talisman de glace+176	25
+Talisman de glace+177	20
+Talisman de glace+178	15
+Talisman de glace+179	10
+Talisman de glace+180	55
+Talisman de glace+181	50
+Talisman de glace+182	45
+Talisman de glace+183	40
+Talisman de glace+184	35
+Talisman de glace+185	30
+Talisman de glace+186	25
+Talisman de glace+187	20
+Talisman de glace+188	15
+Talisman de glace+189	10
+Talisman de glace+190	55
+Talisman de glace+191	50
+Talisman de glace+192	45
+Talisman de glace+193	40
+Talisman de glace+194	35
+Talisman de glace+195	30
+Talisman de glace+196	25
+Talisman de glace+197	20
+Talisman de glace+198	15
+Talisman de glace+199	10
+Talisman de terre+0	55
+Talisman de terre+1	50
+Talisman de terre+2	45
+Talisman de terre+3	40
+Talisman de terre+4	35
+Talisman de terre+5	30
+Talisman de terre+6	25
+Talisman de terre+7	20
+Talisman de terre+8	15
+Talisman de terre+9	10
+Talisman de terre+10	55
+Talisman de terre+11	50
+Talisman de terre+12	45
+Talisman de terre+13	40
+Talisman de terre+14	35
+Talisman de terre+15	30
+Talisman de terre+16	25
+Talisman de terre+17	20
+Talisman de terre+18	15
+Talisman de terre+19	10
+Talisman de terre+20	55
+Talisman de terre+21	50
+Talisman de terre+22	45
+Talisman de terre+23	40
+Talisman de terre+24	35
+Talisman de terre+25	30
+Talisman de terre+26	25
+Talisman de terre+27	20
+Talisman de terre+28	15
+Talisman de terre+29	10
+Talisman de terre+30	55
+Talisman de terre+31	50
+Talisman de terre+32	45
+Talisman de terre+33	40
+Talisman de terre+34	35
+Talisman de terre+35	30
+Talisman de terre+36	25
+Talisman de terre+37	20
+Talisman de terre+38	15
+Talisman de terre+39	10
+Talisman de terre+40	55
+Talisman de terre+41	50
+Talisman de terre+42	45
+Talisman de terre+43	40
+Talisman de terre+44	35
+Talisman de terre+45	30
+Talisman de terre+46	25
+Talisman de terre+47	20
+Talisman de terre+48	15
+Talisman de terre+49	10
+Talisman de terre+50	55
+Talisman de terre+51	50
+Talisman de terre+52	45
+Talisman de terre+53	40
+Talisman de terre+54	35
+Talisman de terre+55	30
+Talisman de terre+56	25
+Talisman de terre+57	20
+Talisman de terre+58	15
+Talisman de terre+59	10
+Talisman de terre+60	55
+Talisman de terre+61	50
+Talisman de terre+62	45
+Talisman de terre+63	40
+Talisman de terre+64	35
+Talisman de terre+65	30
+Talisman de terre+66	25
+Talisman de terre+67	20
+Talisman de terre+68	15
+Talisman de terre+69	10
+Talisman de terre+70	55
+Talisman de terre+71	50
+Talisman de terre+72	45
+Talisman de terre+73	40
+Talisman de terre+74	35
+Talisman de terre+75	30
+Talisman de terre+76	25
+Talisman de terre+77	20
+Talisman de terre+78	15
+Talisman de terre+79	10
+Talisman de terre+80	55
+Talisman de terre+81	50
+Talisman de terre+82	45
+Talisman de terre+83	40
+Talisman de terre+84	35
+Talisman de terre+85	30
+Talisman de terre+86	25
+Talisman de terre+87	20
+Talisman de terre+88	15
+Talisman de terre+89	10
+Talisman de terre+90	55
+Talisman de terre+91	50
+Talisman de terre+92	45
+Talisman de terre+93	40
+Talisman de terre+94	35
+Talisman de terre+95	30
+Talisman de terre+96	25
+Talisman de terre+97	20
+Talisman de terre+98	15
+Talisman de terre+99	10
+Talisman de terre+100	55
+Talisman de terre+101	50
+Talisman de terre+102	45
+Talisman de terre+103	40
+Talisman de terre+104	35
+Talisman de terre+105	30
+Talisman de terre+106	25
+Talisman de terre+107	20
+Talisman de terre+108	15
+Talisman de terre+109	10
+Talisman de terre+110	55
+Talisman de terre+111	50
+Talisman de terre+112	45
+Talisman de terre+113	40
+Talisman de terre+114	35
+Talisman de terre+115	30
+Talisman de terre+116	25
+Talisman de terre+117	20
+Talisman de terre+118	15
+Talisman de terre+119	10
+Talisman de terre+120	55
+Talisman de terre+121	50
+Talisman de terre+122	45
+Talisman de terre+123	40
+Talisman de terre+124	35
+Talisman de terre+125	30
+Talisman de terre+126	25
+Talisman de terre+127	20
+Talisman de terre+128	15
+Talisman de terre+129	10
+Talisman de terre+130	55
+Talisman de terre+131	50
+Talisman de terre+132	45
+Talisman de terre+133	40
+Talisman de terre+134	35
+Talisman de terre+135	30
+Talisman de terre+136	25
+Talisman de terre+137	20
+Talisman de terre+138	15
+Talisman de terre+139	10
+Talisman de terre+140	55
+Talisman de terre+141	50
+Talisman de terre+142	45
+Talisman de terre+143	40
+Talisman de terre+144	35
+Talisman de terre+145	30
+Talisman de terre+146	25
+Talisman de terre+147	20
+Talisman de terre+148	15
+Talisman de terre+149	10
+Talisman de terre+150	55
+Talisman de terre+151	50
+Talisman de terre+152	45
+Talisman de terre+153	40
+Talisman de terre+154	35
+Talisman de terre+155	30
+Talisman de terre+156	25
+Talisman de terre+157	20
+Talisman de terre+158	15
+Talisman de terre+159	10
+Talisman de terre+160	55
+Talisman de terre+161	50
+Talisman de terre+162	45
+Talisman de terre+163	40
+Talisman de terre+164	35
+Talisman de terre+165	30
+Talisman de terre+166	25
+Talisman de terre+167	20
+Talisman de terre+168	15
+Talisman de terre+169	10
+Talisman de terre+170	55
+Talisman de terre+171	50
+Talisman de terre+172	45
+Talisman de terre+173	40
+Talisman de terre+174	35
+Talisman de terre+175	30
+Talisman de terre+176	25
+Talisman de terre+177	20
+Talisman de terre+178	15
+Talisman de terre+179	10
+Talisman de terre+180	55
+Talisman de terre+181	50
+Talisman de terre+182	45
+Talisman de terre+183	40
+Talisman de terre+184	35
+Talisman de terre+185	30
+Talisman de terre+186	25
+Talisman de terre+187	20
+Talisman de terre+188	15
+Talisman de terre+189	10
+Talisman de terre+190	55
+Talisman de terre+191	50
+Talisman de terre+192	45
+Talisman de terre+193	40
+Talisman de terre+194	35
+Talisman de terre+195	30
+Talisman de terre+196	25
+Talisman de terre+197	20
+Talisman de terre+198	15
+Talisman de terre+199	10
+Talisman funeste+0	55
+Talisman funeste+1	50
+Talisman funeste+2	45
+Talisman funeste+3	40
+Talisman funeste+4	35
+Talisman funeste+5	30
+Talisman funeste+6	25
+Talisman funeste+7	20
+Talisman funeste+8	15
+Talisman funeste+9	10
+Talisman funeste+10	55
+Talisman funeste+11	50
+Talisman funeste+12	45
+Talisman funeste+13	40
+Talisman funeste+14	35
+Talisman funeste+15	30
+Talisman funeste+16	25
+Talisman funeste+17	20
+Talisman funeste+18	15
+Talisman funeste+19	10
+Talisman funeste+20	55
+Talisman funeste+21	50
+Talisman funeste+22	45
+Talisman funeste+23	40
+Talisman funeste+24	35
+Talisman funeste+25	30
+Talisman funeste+26	25
+Talisman funeste+27	20
+Talisman funeste+28	15
+Talisman funeste+29	10
+Talisman funeste+30	55
+Talisman funeste+31	50
+Talisman funeste+32	45
+Talisman funeste+33	40
+Talisman funeste+34	35
+Talisman funeste+35	30
+Talisman funeste+36	25
+Talisman funeste+37	20
+Talisman funeste+38	15
+Talisman funeste+39	10
+Talisman funeste+40	55
+Talisman funeste+41	50
+Talisman funeste+42	45
+Talisman funeste+43	40
+Talisman funeste+44	35
+Talisman funeste+45	30
+Talisman funeste+46	25
+Talisman funeste+47	20
+Talisman funeste+48	15
+Talisman funeste+49	10
+Talisman funeste+50	55
+Talisman funeste+51	50
+Talisman funeste+52	45
+Talisman funeste+53	40
+Talisman funeste+54	35
+Talisman funeste+55	30
+Talisman funeste+56	25
+Talisman funeste+57	20
+Talisman funeste+58	15
+Talisman funeste+59	10
+Talisman funeste+60	55
+Talisman funeste+61	50
+Talisman funeste+62	45
+Talisman funeste+63	40
+Talisman funeste+64	35
+Talisman funeste+65	30
+Talisman funeste+66	25
+Talisman funeste+67	20
+Talisman funeste+68	15
+Talisman funeste+69	10
+Talisman funeste+70	55
+Talisman funeste+71	50
+Talisman funeste+72	45
+Talisman funeste+73	40
+Talisman funeste+74	35
+Talisman funeste+75	30
+Talisman funeste+76	25
+Talisman funeste+77	20
+Talisman funeste+78	15
+Talisman funeste+79	10
+Talisman funeste+80	55
+Talisman funeste+81	50
+Talisman funeste+82	45
+Talisman funeste+83	40
+Talisman funeste+84	35
+Talisman funeste+85	30
+Talisman funeste+86	25
+Talisman funeste+87	20
+Talisman funeste+88	15
+Talisman funeste+89	10
+Talisman funeste+90	55
+Talisman funeste+91	50
+Talisman funeste+92	45
+Talisman funeste+93	40
+Talisman funeste+94	35
+Talisman funeste+95	30
+Talisman funeste+96	25
+Talisman funeste+97	20
+Talisman funeste+98	15
+Talisman funeste+99	10
+Talisman funeste+100	55
+Talisman funeste+101	50
+Talisman funeste+102	45
+Talisman funeste+103	40
+Talisman funeste+104	35
+Talisman funeste+105	30
+Talisman funeste+106	25
+Talisman funeste+107	20
+Talisman funeste+108	15
+Talisman funeste+109	10
+Talisman funeste+110	55
+Talisman funeste+111	50
+Talisman funeste+112	45
+Talisman funeste+113	40
+Talisman funeste+114	35
+Talisman funeste+115	30
+Talisman funeste+116	25
+Talisman funeste+117	20
+Talisman funeste+118	15
+Talisman funeste+119	10
+Talisman funeste+120	55
+Talisman funeste+121	50
+Talisman funeste+122	45
+Talisman funeste+123	40
+Talisman funeste+124	35
+Talisman funeste+125	30
+Talisman funeste+126	25
+Talisman funeste+127	20
+Talisman funeste+128	15
+Talisman funeste+129	10
+Talisman funeste+130	55
+Talisman funeste+131	50
+Talisman funeste+132	45
+Talisman funeste+133	40
+Talisman funeste+134	35
+Talisman funeste+135	30
+Talisman funeste+136	25
+Talisman funeste+137	20
+Talisman funeste+138	15
+Talisman funeste+139	10
+Talisman funeste+140	55
+Talisman funeste+141	50
+Talisman funeste+142	45
+Talisman funeste+143	40
+Talisman funeste+144	35
+Talisman funeste+145	30
+Talisman funeste+146	25
+Talisman funeste+147	20
+Talisman funeste+148	15
+Talisman funeste+149	10
+Talisman funeste+150	55
+Talisman funeste+151	50
+Talisman funeste+152	45
+Talisman funeste+153	40
+Talisman funeste+154	35
+Talisman funeste+155	30
+Talisman funeste+156	25
+Talisman funeste+157	20
+Talisman funeste+158	15
+Talisman funeste+159	10
+Talisman funeste+160	55
+Talisman funeste+161	50
+Talisman funeste+162	45
+Talisman funeste+163	40
+Talisman funeste+164	35
+Talisman funeste+165	30
+Talisman funeste+166	25
+Talisman funeste+167	20
+Talisman funeste+168	15
+Talisman funeste+169	10
+Talisman funeste+170	55
+Talisman funeste+171	50
+Talisman funeste+172	45
+Talisman funeste+173	40
+Talisman funeste+174	35
+Talisman funeste+175	30
+Talisman funeste+176	25
+Talisman funeste+177	20
+Talisman funeste+178	15
+Talisman funeste+179	10
+Talisman funeste+180	55
+Talisman funeste+181	50
+Talisman funeste+182	45
+Talisman funeste+183	40
+Talisman funeste+184	35
+Talisman funeste+185	30
+Talisman funeste+186	25
+Talisman funeste+187	20
+Talisman funeste+188	15
+Talisman funeste+189	10
+Talisman funeste+190	55
+Talisman funeste+191	50
+Talisman funeste+192	45
+Talisman funeste+193	40
+Talisman funeste+194	35
+Talisman funeste+195	30
+Talisman funeste+196	25
+Talisman funeste+197	20
+Talisman funeste+198	15
+Talisman funeste+199	10
+Talisman du vent+0	55
+Talisman du vent+1	50
+Talisman du vent+2	45
+Talisman du vent+3	40
+Talisman du vent+4	35
+Talisman du vent+5	30
+Talisman du vent+6	25
+Talisman du vent+7	20
+Talisman du vent+8	15
+Talisman du vent+9	10
+Talisman du vent+10	55
+Talisman du vent+11	50
+Talisman du vent+12	45
+Talisman du vent+13	40
+Talisman du vent+14	35
+Talisman du vent+15	30
+Talisman du vent+16	25
+Talisman du vent+17	20
+Talisman du vent+18	15
+Talisman du vent+19	10
+Talisman du vent+20	55
+Talisman du vent+21	50
+Talisman du vent+22	45
+Talisman du vent+23	40
+Talisman du vent+24	35
+Talisman du vent+25	30
+Talisman du vent+26	25
+Talisman du vent+27	20
+Talisman du vent+28	15
+Talisman du vent+29	10
+Talisman du vent+30	55
+Talisman du vent+31	50
+Talisman du vent+32	45
+Talisman du vent+33	40
+Talisman du vent+34	35
+Talisman du vent+35	30
+Talisman du vent+36	25
+Talisman du vent+37	20
+Talisman du vent+38	15
+Talisman du vent+39	10
+Talisman du vent+40	55
+Talisman du vent+41	50
+Talisman du vent+42	45
+Talisman du vent+43	40
+Talisman du vent+44	35
+Talisman du vent+45	30
+Talisman du vent+46	25
+Talisman du vent+47	20
+Talisman du vent+48	15
+Talisman du vent+49	10
+Talisman du vent+50	55
+Talisman du vent+51	50
+Talisman du vent+52	45
+Talisman du vent+53	40
+Talisman du vent+54	35
+Talisman du vent+55	30
+Talisman du vent+56	25
+Talisman du vent+57	20
+Talisman du vent+58	15
+Talisman du vent+59	10
+Talisman du vent+60	55
+Talisman du vent+61	50
+Talisman du vent+62	45
+Talisman du vent+63	40
+Talisman du vent+64	35
+Talisman du vent+65	30
+Talisman du vent+66	25
+Talisman du vent+67	20
+Talisman du vent+68	15
+Talisman du vent+69	10
+Talisman du vent+70	55
+Talisman du vent+71	50
+Talisman du vent+72	45
+Talisman du vent+73	40
+Talisman du vent+74	35
+Talisman du vent+75	30
+Talisman du vent+76	25
+Talisman du vent+77	20
+Talisman du vent+78	15
+Talisman du vent+79	10
+Talisman du vent+80	55
+Talisman du vent+81	50
+Talisman du vent+82	45
+Talisman du vent+83	40
+Talisman du vent+84	35
+Talisman du vent+85	30
+Talisman du vent+86	25
+Talisman du vent+87	20
+Talisman du vent+88	15
+Talisman du vent+89	10
+Talisman du vent+90	55
+Talisman du vent+91	50
+Talisman du vent+92	45
+Talisman du vent+93	40
+Talisman du vent+94	35
+Talisman du vent+95	30
+Talisman du vent+96	25
+Talisman du vent+97	20
+Talisman du vent+98	15
+Talisman du vent+99	10
+Talisman du vent+100	55
+Talisman du vent+101	50
+Talisman du vent+102	45
+Talisman du vent+103	40
+Talisman du vent+104	35
+Talisman du vent+105	30
+Talisman du vent+106	25
+Talisman du vent+107	20
+Talisman du vent+108	15
+Talisman du vent+109	10
+Talisman du vent+110	55
+Talisman du vent+111	50
+Talisman du vent+112	45
+Talisman du vent+113	40
+Talisman du vent+114	35
+Talisman du vent+115	30
+Talisman du vent+116	25
+Talisman du vent+117	20
+Talisman du vent+118	15
+Talisman du vent+119	10
+Talisman du vent+120	55
+Talisman du vent+121	50
+Talisman du vent+122	45
+Talisman du vent+123	40
+Talisman du vent+124	35
+Talisman du vent+125	30
+Talisman du vent+126	25
+Talisman du vent+127	20
+Talisman du vent+128	15
+Talisman du vent+129	10
+Talisman du vent+130	55
+Talisman du vent+131	50
+Talisman du vent+132	45
+Talisman du vent+133	40
+Talisman du vent+134	35
+Talisman du vent+135	30
+Talisman du vent+136	25
+Talisman du vent+137	20
+Talisman du vent+138	15
+Talisman du vent+139	10
+Talisman du vent+140	55
+Talisman du vent+141	50
+Talisman du vent+142	45
+Talisman du vent+143	40
+Talisman du vent+144	35
+Talisman du vent+145	30
+Talisman du vent+146	25
+Talisman du vent+147	20
+Talisman du vent+148	15
+Talisman du vent+149	10
+Talisman du vent+150	55
+Talisman du vent+151	50
+Talisman du vent+152	45
+Talisman du vent+153	40
+Talisman du vent+154	35
+Talisman du vent+155	30
+Talisman du vent+156	25
+Talisman du vent+157	20
+Talisman du vent+158	15
+Talisman du vent+159	10
+Talisman du vent+160	55
+Talisman du vent+161	50
+Talisman du vent+162	45
+Talisman du vent+163	40
+Talisman du vent+164	35
+Talisman du vent+165	30
+Talisman du vent+166	25
+Talisman du vent+167	20
+Talisman du vent+168	15
+Talisman du vent+169	10
+Talisman du vent+170	55
+Talisman du vent+171	50
+Talisman du vent+172	45
+Talisman du vent+173	40
+Talisman du vent+174	35
+Talisman du vent+175	30
+Talisman du vent+176	25
+Talisman du vent+177	20
+Talisman du vent+178	15
+Talisman du vent+179	10
+Talisman du vent+180	55
+Talisman du vent+181	50
+Talisman du vent+182	45
+Talisman du vent+183	40
+Talisman du vent+184	35
+Talisman du vent+185	30
+Talisman du vent+186	25
+Talisman du vent+187	20
+Talisman du vent+188	15
+Talisman du vent+189	10
+Talisman du vent+190	55
+Talisman du vent+191	50
+Talisman du vent+192	45
+Talisman du vent+193	40
+Talisman du vent+194	35
+Talisman du vent+195	30
+Talisman du vent+196	25
+Talisman du vent+197	20
+Talisman du vent+198	15
+Talisman du vent+199	10
+Talisman de foudre+0	55
+Talisman de foudre+1	50
+Talisman de foudre+2	45
+Talisman de foudre+3	40
+Talisman de foudre+4	35
+Talisman de foudre+5	30
+Talisman de foudre+6	25
+Talisman de foudre+7	20
+Talisman de foudre+8	15
+Talisman de foudre+9	10
+Talisman de foudre+10	55
+Talisman de foudre+11	50
+Talisman de foudre+12	45
+Talisman de foudre+13	40
+Talisman de foudre+14	35
+Talisman de foudre+15	30
+Talisman de foudre+16	25
+Talisman de foudre+17	20
+Talisman de foudre+18	15
+Talisman de foudre+19	10
+Talisman de foudre+20	55
+Talisman de foudre+21	50
+Talisman de foudre+22	45
+Talisman de foudre+23	40
+Talisman de foudre+24	35
+Talisman de foudre+25	30
+Talisman de foudre+26	25
+Talisman de foudre+27	20
+Talisman de foudre+28	15
+Talisman de foudre+29	10
+Talisman de foudre+30	55
+Talisman de foudre+31	50
+Talisman de foudre+32	45
+Talisman de foudre+33	40
+Talisman de foudre+34	35
+Talisman de foudre+35	30
+Talisman de foudre+36	25
+Talisman de foudre+37	20
+Talisman de foudre+38	15
+Talisman de foudre+39	10
+Talisman de foudre+40	55
+Talisman de foudre+41	50
+Talisman de foudre+42	45
+Talisman de foudre+43	40
+Talisman de foudre+44	35
+Talisman de foudre+45	30
+Talisman de foudre+46	25
+Talisman de foudre+47	20
+Talisman de foudre+48	15
+Talisman de foudre+49	10
+Talisman de foudre+50	55
+Talisman de foudre+51	50
+Talisman de foudre+52	45
+Talisman de foudre+53	40
+Talisman de foudre+54	35
+Talisman de foudre+55	30
+Talisman de foudre+56	25
+Talisman de foudre+57	20
+Talisman de foudre+58	15
+Talisman de foudre+59	10
+Talisman de foudre+60	55
+Talisman de foudre+61	50
+Talisman de foudre+62	45
+Talisman de foudre+63	40
+Talisman de foudre+64	35
+Talisman de foudre+65	30
+Talisman de foudre+66	25
+Talisman de foudre+67	20
+Talisman de foudre+68	15
+Talisman de foudre+69	10
+Talisman de foudre+70	55
+Talisman de foudre+71	50
+Talisman de foudre+72	45
+Talisman de foudre+73	40
+Talisman de foudre+74	35
+Talisman de foudre+75	30
+Talisman de foudre+76	25
+Talisman de foudre+77	20
+Talisman de foudre+78	15
+Talisman de foudre+79	10
+Talisman de foudre+80	55
+Talisman de foudre+81	50
+Talisman de foudre+82	45
+Talisman de foudre+83	40
+Talisman de foudre+84	35
+Talisman de foudre+85	30
+Talisman de foudre+86	25
+Talisman de foudre+87	20
+Talisman de foudre+88	15
+Talisman de foudre+89	10
+Talisman de foudre+90	55
+Talisman de foudre+91	50
+Talisman de foudre+92	45
+Talisman de foudre+93	40
+Talisman de foudre+94	35
+Talisman de foudre+95	30
+Talisman de foudre+96	25
+Talisman de foudre+97	20
+Talisman de foudre+98	15
+Talisman de foudre+99	10
+Talisman de foudre+100	55
+Talisman de foudre+101	50
+Talisman de foudre+102	45
+Talisman de foudre+103	40
+Talisman de foudre+104	35
+Talisman de foudre+105	30
+Talisman de foudre+106	25
+Talisman de foudre+107	20
+Talisman de foudre+108	15
+Talisman de foudre+109	10
+Talisman de foudre+110	55
+Talisman de foudre+111	50
+Talisman de foudre+112	45
+Talisman de foudre+113	40
+Talisman de foudre+114	35
+Talisman de foudre+115	30
+Talisman de foudre+116	25
+Talisman de foudre+117	20
+Talisman de foudre+118	15
+Talisman de foudre+119	10
+Talisman de foudre+120	55
+Talisman de foudre+121	50
+Talisman de foudre+122	45
+Talisman de foudre+123	40
+Talisman de foudre+124	35
+Talisman de foudre+125	30
+Talisman de foudre+126	25
+Talisman de foudre+127	20
+Talisman de foudre+128	15
+Talisman de foudre+129	10
+Talisman de foudre+130	55
+Talisman de foudre+131	50
+Talisman de foudre+132	45
+Talisman de foudre+133	40
+Talisman de foudre+134	35
+Talisman de foudre+135	30
+Talisman de foudre+136	25
+Talisman de foudre+137	20
+Talisman de foudre+138	15
+Talisman de foudre+139	10
+Talisman de foudre+140	55
+Talisman de foudre+141	50
+Talisman de foudre+142	45
+Talisman de foudre+143	40
+Talisman de foudre+144	35
+Talisman de foudre+145	30
+Talisman de foudre+146	25
+Talisman de foudre+147	20
+Talisman de foudre+148	15
+Talisman de foudre+149	10
+Talisman de foudre+150	55
+Talisman de foudre+151	50
+Talisman de foudre+152	45
+Talisman de foudre+153	40
+Talisman de foudre+154	35
+Talisman de foudre+155	30
+Talisman de foudre+156	25
+Talisman de foudre+157	20
+Talisman de foudre+158	15
+Talisman de foudre+159	10
+Talisman de foudre+160	55
+Talisman de foudre+161	50
+Talisman de foudre+162	45
+Talisman de foudre+163	40
+Talisman de foudre+164	35
+Talisman de foudre+165	30
+Talisman de foudre+166	25
+Talisman de foudre+167	20
+Talisman de foudre+168	15
+Talisman de foudre+169	10
+Talisman de foudre+170	55
+Talisman de foudre+171	50
+Talisman de foudre+172	45
+Talisman de foudre+173	40
+Talisman de foudre+174	35
+Talisman de foudre+175	30
+Talisman de foudre+176	25
+Talisman de foudre+177	20
+Talisman de foudre+178	15
+Talisman de foudre+179	10
+Talisman de foudre+180	55
+Talisman de foudre+181	50
+Talisman de foudre+182	45
+Talisman de foudre+183	40
+Talisman de foudre+184	35
+Talisman de foudre+185	30
+Talisman de foudre+186	25
+Talisman de foudre+187	20
+Talisman de foudre+188	15
+Talisman de foudre+189	10
+Talisman de foudre+190	55
+Talisman de foudre+191	50
+Talisman de foudre+192	45
+Talisman de foudre+193	40
+Talisman de foudre+194	35
+Talisman de foudre+195	30
+Talisman de foudre+196	25
+Talisman de foudre+197	20
+Talisman de foudre+198	15
+Talisman de foudre+199	10
+Armure du singe+0	90
+Armure du singe+1	90
+Armure du singe+2	90
+Armure du singe+3	90
+Armure du singe+4	80
+Armure du singe+5	60
+Armure du singe+6	50
+Armure du singe+7	40
+Armure du singe+8	30
+Armure de fer+0	90
+Armure de fer+1	90
+Armure de fer+2	90
+Armure de fer+3	90
+Armure de fer+4	80
+Armure de fer+5	60
+Armure de fer+6	50
+Armure de fer+7	40
+Armure de fer+8	30
+Armure du tigre tapi+0	90
+Armure du tigre tapi+1	90
+Armure du tigre tapi+2	90
+Armure du tigre tapi+3	90
+Armure du tigre tapi+4	80
+Armure du tigre tapi+5	60
+Armure du tigre tapi+6	50
+Armure du tigre tapi+7	40
+Armure du tigre tapi+8	30
+Armure du lion+0	90
+Armure du lion+1	90
+Armure du lion+2	90
+Armure du lion+3	80
+Armure du lion+4	70
+Armure du lion+5	60
+Armure du lion+6	50
+Armure du lion+7	40
+Armure du lion+8	30
+Armure mortelle+0	90
+Armure mortelle+1	90
+Armure mortelle+2	90
+Armure mortelle+3	80
+Armure mortelle+4	70
+Armure mortelle+5	60
+Armure mortelle+6	50
+Armure mortelle+7	40
+Armure mortelle+8	30
+Arm. balance du dragon+0	90
+Arm. balance du dragon+1	90
+Arm. balance du dragon+2	90
+Arm. balance du dragon+3	80
+Arm. balance du dragon+4	70
+Arm. balance du dragon+5	60
+Arm. balance du dragon+6	50
+Arm. balance du dragon+7	40
+Arm. balance du dragon+8	30
+Arm. balance bleue+0	90
+Arm. balance bleue+1	80
+Arm. balance bleue+2	70
+Arm. balance bleue+3	60
+Arm. balance bleue+4	50
+Arm. balance bleue+5	40
+Arm. balance bleue+6	30
+Arm. balance bleue+7	20
+Arm. balance bleue+8	10
+Armure balance d'or+0	90
+Armure balance d'or+1	80
+Armure balance d'or+2	70
+Armure balance d'or+3	60
+Armure balance d'or+4	50
+Armure balance d'or+5	40
+Armure balance d'or+6	30
+Armure balance d'or+7	20
+Armure balance d'or+8	10
+Armure du dieu dragon+0	90
+Armure du dieu dragon+1	80
+Armure du dieu dragon+2	70
+Armure du dieu dragon+3	60
+Armure du dieu dragon+4	50
+Armure du dieu dragon+5	40
+Armure du dieu dragon+6	30
+Armure du dieu dragon+7	20
+Armure du dieu dragon+8	10
+Armure d'acier noir+0	90
+Armure d'acier noir+1	80
+Armure d'acier noir+2	70
+Armure d'acier noir+3	60
+Armure d'acier noir+4	50
+Armure d'acier noir+5	40
+Armure d'acier noir+6	30
+Armure d'acier noir+7	20
+Armure d'acier noir+8	10
+Costume azur+0	90
+Costume azur+1	90
+Costume azur+2	90
+Costume azur+3	90
+Costume azur+4	80
+Costume azur+5	60
+Costume azur+6	50
+Costume azur+7	40
+Costume azur+8	30
+Costume ivoire+0	90
+Costume ivoire+1	90
+Costume ivoire+2	90
+Costume ivoire+3	90
+Costume ivoire+4	80
+Costume ivoire+5	60
+Costume ivoire+6	50
+Costume ivoire+7	40
+Costume ivoire+8	30
+Costume cramoisi+0	90
+Costume cramoisi+1	90
+Costume cramoisi+2	90
+Costume cramoisi+3	90
+Costume cramoisi+4	80
+Costume cramoisi+5	60
+Costume cramoisi+6	50
+Costume cramoisi+7	40
+Costume cramoisi+8	30
+Cost. de fourmi rouge+0	90
+Cost. de fourmi rouge+1	90
+Cost. de fourmi rouge+2	90
+Cost. de fourmi rouge+3	80
+Cost. de fourmi rouge+4	70
+Cost. de fourmi rouge+5	60
+Cost. de fourmi rouge+6	50
+Cost. de fourmi rouge+7	40
+Cost. de fourmi rouge+8	30
+Costume de fourmi-lion+0	90
+Costume de fourmi-lion+1	90
+Costume de fourmi-lion+2	90
+Costume de fourmi-lion+3	80
+Costume de fourmi-lion+4	70
+Costume de fourmi-lion+5	60
+Costume de fourmi-lion+6	50
+Costume de fourmi-lion+7	40
+Costume de fourmi-lion+8	30
+Costume d'assassin+0	90
+Costume d'assassin+1	90
+Costume d'assassin+2	90
+Costume d'assassin+3	80
+Costume d'assassin+4	70
+Costume d'assassin+5	60
+Costume d'assassin+6	50
+Costume d'assassin+7	40
+Costume d'assassin+8	30
+Cost. de jeune dragon+0	90
+Cost. de jeune dragon+1	80
+Cost. de jeune dragon+2	70
+Cost. de jeune dragon+3	60
+Cost. de jeune dragon+4	50
+Cost. de jeune dragon+5	40
+Cost. de jeune dragon+6	30
+Cost. de jeune dragon+7	20
+Cost. de jeune dragon+8	10
+Cost. vent meurtrier+0	90
+Cost. vent meurtrier+1	80
+Cost. vent meurtrier+2	70
+Cost. vent meurtrier+3	60
+Cost. vent meurtrier+4	50
+Cost. vent meurtrier+5	40
+Cost. vent meurtrier+6	30
+Cost. vent meurtrier+7	20
+Cost. vent meurtrier+8	10
+Costume fuschia+0	90
+Costume fuschia+1	80
+Costume fuschia+2	70
+Costume fuschia+3	60
+Costume fuschia+4	50
+Costume fuschia+5	40
+Costume fuschia+6	30
+Costume fuschia+7	20
+Costume fuschia+8	10
+Costume du vent noir+0	90
+Costume du vent noir+1	80
+Costume du vent noir+2	70
+Costume du vent noir+3	60
+Costume du vent noir+4	50
+Costume du vent noir+5	40
+Costume du vent noir+6	30
+Costume du vent noir+7	20
+Costume du vent noir+8	10
+Armure de réquiem+0	90
+Armure de réquiem+1	90
+Armure de réquiem+2	90
+Armure de réquiem+3	90
+Armure de réquiem+4	80
+Armure de réquiem+5	60
+Armure de réquiem+6	50
+Armure de réquiem+7	40
+Armure de réquiem+8	30
+Armure tempétueuse+0	90
+Armure tempétueuse+1	90
+Armure tempétueuse+2	90
+Armure tempétueuse+3	90
+Armure tempétueuse+4	80
+Armure tempétueuse+5	60
+Armure tempétueuse+6	50
+Armure tempétueuse+7	40
+Armure tempétueuse+8	30
+Armure de malchance+0	90
+Armure de malchance+1	90
+Armure de malchance+2	90
+Armure de malchance+3	90
+Armure de malchance+4	80
+Armure de malchance+5	60
+Armure de malchance+6	50
+Armure de malchance+7	40
+Armure de malchance+8	30
+Armure de fantôme+0	90
+Armure de fantôme+1	90
+Armure de fantôme+2	90
+Armure de fantôme+3	80
+Armure de fantôme+4	70
+Armure de fantôme+5	60
+Armure de fantôme+6	50
+Armure de fantôme+7	40
+Armure de fantôme+8	30
+Armure du yin-yang+0	90
+Armure du yin-yang+1	90
+Armure du yin-yang+2	90
+Armure du yin-yang+3	80
+Armure du yin-yang+4	70
+Armure du yin-yang+5	60
+Armure du yin-yang+6	50
+Armure du yin-yang+7	40
+Armure du yin-yang+8	30
+Armure mystique noir+0	90
+Armure mystique noir+1	90
+Armure mystique noir+2	90
+Armure mystique noir+3	80
+Armure mystique noir+4	70
+Armure mystique noir+5	60
+Armure mystique noir+6	50
+Armure mystique noir+7	40
+Armure mystique noir+8	30
+Armure nébuleuse+0	90
+Armure nébuleuse+1	80
+Armure nébuleuse+2	70
+Armure nébuleuse+3	60
+Armure nébuleuse+4	50
+Armure nébuleuse+5	40
+Armure nébuleuse+6	30
+Armure nébuleuse+7	20
+Armure nébuleuse+8	10
+Arm. visage spectrale+0	90
+Arm. visage spectrale+1	80
+Arm. visage spectrale+2	70
+Arm. visage spectrale+3	60
+Arm. visage spectrale+4	50
+Arm. visage spectrale+5	40
+Arm. visage spectrale+6	30
+Arm. visage spectrale+7	20
+Arm. visage spectrale+8	10
+Armure d'Esprit+0	90
+Armure d'Esprit+1	80
+Armure d'Esprit+2	70
+Armure d'Esprit+3	60
+Armure d'Esprit+4	50
+Armure d'Esprit+5	40
+Armure d'Esprit+6	30
+Armure d'Esprit+7	20
+Armure d'Esprit+8	10
+Armure de magie noire+0	90
+Armure de magie noire+1	80
+Armure de magie noire+2	70
+Armure de magie noire+3	60
+Armure de magie noire+4	50
+Armure de magie noire+5	40
+Armure de magie noire+6	30
+Armure de magie noire+7	20
+Armure de magie noire+8	10
+Robe Pourpre +0	90
+Robe Pourpre +1	90
+Robe Pourpre +2	90
+Robe Pourpre +3	90
+Robe Pourpre +4	80
+Robe Pourpre +5	60
+Robe Pourpre +6	50
+Robe Pourpre +7	40
+Robe Pourpre +8	30
+Robe turquoise+0	90
+Robe turquoise+1	90
+Robe turquoise+2	90
+Robe turquoise+3	90
+Robe turquoise+4	80
+Robe turquoise+5	60
+Robe turquoise+6	50
+Robe turquoise+7	40
+Robe turquoise+8	30
+Robe rose+0	90
+Robe rose+1	90
+Robe rose+2	90
+Robe rose+3	90
+Robe rose+4	80
+Robe rose+5	60
+Robe rose+6	50
+Robe rose+7	40
+Robe rose+8	30
+Robe d'amoureux+0	90
+Robe d'amoureux+1	90
+Robe d'amoureux+2	90
+Robe d'amoureux+3	80
+Robe d'amoureux+4	70
+Robe d'amoureux+5	60
+Robe d'amoureux+6	50
+Robe d'amoureux+7	40
+Robe d'amoureux+8	30
+Robe ciel ouest loint.+0	90
+Robe ciel ouest loint.+1	90
+Robe ciel ouest loint.+2	90
+Robe ciel ouest loint.+3	80
+Robe ciel ouest loint.+4	70
+Robe ciel ouest loint.+5	60
+Robe ciel ouest loint.+6	50
+Robe ciel ouest loint.+7	40
+Robe ciel ouest loint.+8	30
+Robe solaire+0	90
+Robe solaire+1	90
+Robe solaire+2	90
+Robe solaire+3	80
+Robe solaire+4	70
+Robe solaire+5	60
+Robe solaire+6	50
+Robe solaire+7	40
+Robe solaire+8	30
+Robe de moral+0	90
+Robe de moral+1	80
+Robe de moral+2	70
+Robe de moral+3	60
+Robe de moral+4	50
+Robe de moral+5	40
+Robe de moral+6	30
+Robe de moral+7	20
+Robe de moral+8	10
+Robe du chat orange+0	90
+Robe du chat orange+1	80
+Robe du chat orange+2	70
+Robe du chat orange+3	60
+Robe du chat orange+4	50
+Robe du chat orange+5	40
+Robe du chat orange+6	30
+Robe du chat orange+7	20
+Robe du chat orange+8	10
+Robe de baronne+0	90
+Robe de baronne+1	80
+Robe de baronne+2	70
+Robe de baronne+3	60
+Robe de baronne+4	50
+Robe de baronne+5	40
+Robe de baronne+6	30
+Robe de baronne+7	20
+Robe de baronne+8	10
+Robe noire+0	90
+Robe noire+1	80
+Robe noire+2	70
+Robe noire+3	60
+Robe noire+4	50
+Robe noire+5	40
+Robe noire+6	30
+Robe noire+7	20
+Robe noire+8	10
+Armure d'acier azuré +0	100
+Armure d'acier azuré +1	74
+Armure d'acier azuré +2	68
+Armure d'acier azuré +3	60
+Armure d'acier azuré +4	50
+Armure d'acier azuré +5	39
+Armure d'acier azuré +6	27
+Armure d'acier azuré +7	15
+Armure d'acier azuré +8	7
+Cost. de dragon azuré +0	100
+Cost. de dragon azuré +1	74
+Cost. de dragon azuré +2	68
+Cost. de dragon azuré +3	60
+Cost. de dragon azuré +4	50
+Cost. de dragon azuré +5	39
+Cost. de dragon azuré +6	27
+Cost. de dragon azuré +7	15
+Cost. de dragon azuré +8	7
+Plaques auréolées +0	100
+Plaques auréolées +1	74
+Plaques auréolées +2	68
+Plaques auréolées +3	60
+Plaques auréolées +4	50
+Plaques auréolées +5	39
+Plaques auréolées +6	27
+Plaques auréolées +7	15
+Plaques auréolées +8	7
+Vêtement du dragon+0	100
+Vêtement du dragon+1	74
+Vêtement du dragon+2	68
+Vêtement du dragon+3	60
+Vêtement du dragon+4	50
+Vêtement du dragon+5	39
+Vêtement du dragon+6	27
+Vêtement du dragon+7	15
+Vêtement du dragon+8	7
+Armure de kyanite+0	100
+Armure de kyanite+1	70
+Armure de kyanite+2	60
+Armure de kyanite+3	45
+Armure de kyanite+4	30
+Armure de kyanite+5	20
+Armure de kyanite+6	10
+Armure de kyanite+7	8
+Armure de kyanite+8	3
+Costume de kyanite +0	100
+Costume de kyanite +1	70
+Costume de kyanite +2	60
+Costume de kyanite +3	45
+Costume de kyanite +4	30
+Costume de kyanite +5	20
+Costume de kyanite +6	10
+Costume de kyanite +7	8
+Costume de kyanite +8	3
+Plates de kyanite+0	100
+Plates de kyanite+1	70
+Plates de kyanite+2	60
+Plates de kyanite+3	45
+Plates de kyanite+4	30
+Plates de kyanite+5	20
+Plates de kyanite+6	10
+Plates de kyanite+7	8
+Plates de kyanite+8	3
+Vêtement de kyanite +0	100
+Vêtement de kyanite +1	70
+Vêtement de kyanite +2	60
+Vêtement de kyanite +3	45
+Vêtement de kyanite +4	30
+Vêtement de kyanite +5	20
+Vêtement de kyanite +6	10
+Vêtement de kyanite +7	8
+Vêtement de kyanite +8	3
+Harnais de kyanite+0	100
+Harnais de kyanite+1	70
+Harnais de kyanite+2	60
+Harnais de kyanite+3	45
+Harnais de kyanite+4	30
+Harnais de kyanite+5	20
+Harnais de kyanite+6	10
+Harnais de kyanite+7	8
+Harnais de kyanite+8	3
+Heaume traditionnel+0	90
+Heaume traditionnel+1	90
+Heaume traditionnel+2	90
+Heaume traditionnel+3	90
+Heaume traditionnel+4	80
+Heaume traditionnel+5	60
+Heaume traditionnel+6	50
+Heaume traditionnel+7	40
+Heaume traditionnel+8	30
+Heaume de fer+0	90
+Heaume de fer+1	90
+Heaume de fer+2	90
+Heaume de fer+3	80
+Heaume de fer+4	70
+Heaume de fer+5	60
+Heaume de fer+6	50
+Heaume de fer+7	40
+Heaume de fer+8	30
+Casque masque spectr.+0	90
+Casque masque spectr.+1	80
+Casque masque spectr.+2	70
+Casque masque spectr.+3	60
+Casque masque spectr.+4	50
+Casque masque spectr.+5	40
+Casque masque spectr.+6	30
+Casque masque spectr.+7	20
+Casque masque spectr.+8	10
+Masque de la peur +0	90
+Masque de la peur +1	80
+Masque de la peur +2	70
+Masque de la peur +3	60
+Masque de la peur +4	50
+Masque de la peur +5	40
+Masque de la peur +6	30
+Masque de la peur +7	20
+Masque de la peur +8	10
+Heaume de général +0	90
+Heaume de général +1	80
+Heaume de général +2	70
+Heaume de général +3	60
+Heaume de général +4	50
+Heaume de général +5	40
+Heaume de général +6	30
+Heaume de général +7	20
+Heaume de général +8	10
+Capuchon en cuir+0	90
+Capuchon en cuir+1	90
+Capuchon en cuir+2	90
+Capuchon en cuir+3	90
+Capuchon en cuir+4	80
+Capuchon en cuir+5	60
+Capuchon en cuir+6	50
+Capuchon en cuir+7	40
+Capuchon en cuir+8	30
+Capuchon de maille+0	90
+Capuchon de maille+1	90
+Capuchon de maille+2	90
+Capuchon de maille+3	80
+Capuchon de maille+4	70
+Capuchon de maille+5	60
+Capuchon de maille+6	50
+Capuchon de maille+7	40
+Capuchon de maille+8	30
+Capuchon de fer+0	90
+Capuchon de fer+1	80
+Capuchon de fer+2	70
+Capuchon de fer+3	60
+Capuchon de fer+4	50
+Capuchon de fer+5	40
+Capuchon de fer+6	30
+Capuchon de fer+7	20
+Capuchon de fer+8	10
+Capuchon orc +0	90
+Capuchon orc +1	80
+Capuchon orc +2	70
+Capuchon orc +3	60
+Capuchon orc +4	50
+Capuchon orc +5	40
+Capuchon orc +6	30
+Capuchon orc +7	20
+Capuchon orc +8	10
+Capuchon arachnoïde +0	90
+Capuchon arachnoïde +1	80
+Capuchon arachnoïde +2	70
+Capuchon arachnoïde +3	60
+Capuchon arachnoïde +4	50
+Capuchon arachnoïde +5	40
+Capuchon arachnoïde +6	30
+Capuchon arachnoïde +7	20
+Capuchon arachnoïde +8	10
+Heaume sanglant+0	90
+Heaume sanglant+1	90
+Heaume sanglant+2	90
+Heaume sanglant+3	90
+Heaume sanglant+4	80
+Heaume sanglant+5	60
+Heaume sanglant+6	50
+Heaume sanglant+7	40
+Heaume sanglant+8	30
+Heaume de raillerie+0	90
+Heaume de raillerie+1	90
+Heaume de raillerie+2	90
+Heaume de raillerie+3	80
+Heaume de raillerie+4	70
+Heaume de raillerie+5	60
+Heaume de raillerie+6	50
+Heaume de raillerie+7	40
+Heaume de raillerie+8	30
+Heaume de château+0	90
+Heaume de château+1	80
+Heaume de château+2	70
+Heaume de château+3	60
+Heaume de château+4	50
+Heaume de château+5	40
+Heaume de château+6	30
+Heaume de château+7	20
+Heaume de château+8	10
+Heaume Viking +0	90
+Heaume Viking +1	80
+Heaume Viking +2	70
+Heaume Viking +3	60
+Heaume Viking +4	50
+Heaume Viking +5	40
+Heaume Viking +6	30
+Heaume Viking +7	20
+Heaume Viking +8	10
+Heaume magique +0	90
+Heaume magique +1	80
+Heaume magique +2	70
+Heaume magique +3	60
+Heaume magique +4	50
+Heaume magique +5	40
+Heaume magique +6	30
+Heaume magique +7	20
+Heaume magique +8	10
+Chapeau de moine+0	90
+Chapeau de moine+1	90
+Chapeau de moine+2	90
+Chapeau de moine+3	90
+Chapeau de moine+4	80
+Chapeau de moine+5	60
+Chapeau de moine+6	50
+Chapeau de moine+7	40
+Chapeau de moine+8	30
+Chapeau de phoenix+0	90
+Chapeau de phoenix+1	90
+Chapeau de phoenix+2	90
+Chapeau de phoenix+3	80
+Chapeau de phoenix+4	70
+Chapeau de phoenix+5	60
+Chapeau de phoenix+6	50
+Chapeau de phoenix+7	40
+Chapeau de phoenix+8	30
+Chap. lumiere du sol.+0	90
+Chap. lumiere du sol.+1	80
+Chap. lumiere du sol.+2	70
+Chap. lumiere du sol.+3	60
+Chap. lumiere du sol.+4	50
+Chap. lumiere du sol.+5	40
+Chap. lumiere du sol.+6	30
+Chap. lumiere du sol.+7	20
+Chap. lumiere du sol.+8	10
+Chapeau de cardinal +0	90
+Chapeau de cardinal +1	80
+Chapeau de cardinal +2	70
+Chapeau de cardinal +3	60
+Chapeau de cardinal +4	50
+Chapeau de cardinal +5	40
+Chapeau de cardinal +6	30
+Chapeau de cardinal +7	20
+Chapeau de cardinal +8	10
+Chapeau d'éclat d'âme +0	90
+Chapeau d'éclat d'âme +1	80
+Chapeau d'éclat d'âme +2	70
+Chapeau d'éclat d'âme +3	60
+Chapeau d'éclat d'âme +4	50
+Chapeau d'éclat d'âme +5	40
+Chapeau d'éclat d'âme +6	30
+Chapeau d'éclat d'âme +7	20
+Chapeau d'éclat d'âme +8	10
+Casque d'acier-dragon +0	90
+Casque d'acier-dragon +1	80
+Casque d'acier-dragon +2	70
+Casque d'acier-dragon +3	60
+Casque d'acier-dragon +4	50
+Casque d'acier-dragon +5	40
+Casque d'acier-dragon +6	30
+Casque d'acier-dragon +7	20
+Casque d'acier-dragon +8	10
+Capuche de dragon +0	90
+Capuche de dragon +1	80
+Capuche de dragon +2	70
+Capuche de dragon +3	60
+Capuche de dragon +4	50
+Capuche de dragon +5	40
+Capuche de dragon +6	30
+Capuche de dragon +7	20
+Capuche de dragon +8	10
+Casque-dragon blindé +0	90
+Casque-dragon blindé +1	80
+Casque-dragon blindé +2	70
+Casque-dragon blindé +3	60
+Casque-dragon blindé +4	50
+Casque-dragon blindé +5	40
+Casque-dragon blindé +6	30
+Casque-dragon blindé +7	20
+Casque-dragon blindé +8	10
+Coiffe de dragon +0	90
+Coiffe de dragon +1	80
+Coiffe de dragon +2	70
+Coiffe de dragon +3	60
+Coiffe de dragon +4	50
+Coiffe de dragon +5	40
+Coiffe de dragon +6	30
+Coiffe de dragon +7	20
+Coiffe de dragon +8	10
+Casque d'acier dragon+0	90
+Casque d'acier dragon+1	80
+Casque d'acier dragon+2	70
+Casque d'acier dragon+3	60
+Casque d'acier dragon+4	50
+Casque d'acier dragon+5	40
+Casque d'acier dragon+6	30
+Casque d'acier dragon+7	20
+Casque d'acier dragon+8	10
+Coiffe de dragonnier+0	90
+Coiffe de dragonnier+1	80
+Coiffe de dragonnier+2	70
+Coiffe de dragonnier+3	60
+Coiffe de dragonnier+4	50
+Coiffe de dragonnier+5	40
+Coiffe de dragonnier+6	30
+Coiffe de dragonnier+7	20
+Coiffe de dragonnier+8	10
+Casque blindé dragon+0	90
+Casque blindé dragon+1	80
+Casque blindé dragon+2	70
+Casque blindé dragon+3	60
+Casque blindé dragon+4	50
+Casque blindé dragon+5	40
+Casque blindé dragon+6	30
+Casque blindé dragon+7	20
+Casque blindé dragon+8	10
+Chapeau de dragonnier+0	90
+Chapeau de dragonnier+1	80
+Chapeau de dragonnier+2	70
+Chapeau de dragonnier+3	60
+Chapeau de dragonnier+4	50
+Chapeau de dragonnier+5	40
+Chapeau de dragonnier+6	30
+Chapeau de dragonnier+7	20
+Chapeau de dragonnier+8	10
+Casque épineux dragon+0	90
+Casque épineux dragon+1	80
+Casque épineux dragon+2	70
+Casque épineux dragon+3	60
+Casque épineux dragon+4	50
+Casque épineux dragon+5	40
+Casque épineux dragon+6	30
+Casque épineux dragon+7	20
+Casque épineux dragon+8	10
+Heaume du dragon obs.+0	90
+Heaume du dragon obs.+1	75
+Heaume du dragon obs.+2	60
+Heaume du dragon obs.+3	50
+Heaume du dragon obs.+4	40
+Heaume du dragon obs.+5	30
+Heaume du dragon obs.+6	25
+Heaume du dragon obs.+7	15
+Heaume du dragon obs.+8	8
+Heaume du dragon obs.+9	5
+Heaume du dragon obs.+10	5
+Heaume du dragon obs.+11	5
+Heaume du dragon obs.+12	5
+Heaume du dragon obs.+13	3
+Heaume du dragon obs.+14	3
+Heaume dragon agité+0	90
+Heaume dragon agité+1	75
+Heaume dragon agité+2	60
+Heaume dragon agité+3	50
+Heaume dragon agité+4	40
+Heaume dragon agité+5	30
+Heaume dragon agité+6	25
+Heaume dragon agité+7	15
+Heaume dragon agité+8	8
+Heaume dragon agité+9	5
+Heaume dragon agité+10	5
+Heaume dragon agité+11	5
+Heaume dragon agité+12	5
+Heaume dragon agité+13	3
+Heaume dragon agité+14	3
+Heaume du dragon mag.+0	90
+Heaume du dragon mag.+1	75
+Heaume du dragon mag.+2	60
+Heaume du dragon mag.+3	50
+Heaume du dragon mag.+4	40
+Heaume du dragon mag.+5	30
+Heaume du dragon mag.+6	25
+Heaume du dragon mag.+7	15
+Heaume du dragon mag.+8	8
+Heaume du dragon mag.+9	5
+Heaume du dragon mag.+10	5
+Heaume du dragon mag.+11	5
+Heaume du dragon mag.+12	5
+Heaume du dragon mag.+13	3
+Heaume du dragon mag.+14	3
+Heaume de dragon div.+0	90
+Heaume du dragon div.+1	75
+Heaume du dragon div.+2	60
+Heaume du dragon div.+3	50
+Heaume du dragon div.+4	40
+Heaume du dragon div.+5	30
+Heaume du dragon div.+6	25
+Heaume du dragon div.+7	15
+Heaume du dragon div.+8	8
+Heaume du dragon div.+9	5
+Heaume du dragon div.+10	5
+Heaume du dragon div.+11	5
+Heaume du dragon div.+12	5
+Heaume du dragon div.+13	3
+Heaume du dragon div.+14	3
+Heaume dragon céleste+0	90
+Heaume dragon céleste+1	75
+Heaume dragon céleste+2	60
+Heaume dragon céleste+3	50
+Heaume dragon céleste+4	40
+Heaume dragon céleste+5	30
+Heaume dragon céleste+6	25
+Heaume dragon céleste+7	15
+Heaume dragon céleste+8	8
+Heaume dragon céleste+9	5
+Heaume dragon céleste+10	5
+Heaume dragon céleste+11	5
+Heaume dragon céleste+12	5
+Heaume dragon céleste+13	3
+Heaume dragon céleste+14	3
+Bouclier de bataille+0	90
+Bouclier de bataille+1	90
+Bouclier de bataille+2	90
+Bouclier de bataille+3	90
+Bouclier de bataille+4	80
+Bouclier de bataille+5	60
+Bouclier de bataille+6	50
+Bouclier de bataille+7	40
+Bouclier de bataille+8	30
+Bouclier pentagonal+0	90
+Bouclier pentagonal+1	90
+Bouclier pentagonal+2	90
+Bouclier pentagonal+3	80
+Bouclier pentagonal+4	70
+Bouclier pentagonal+5	60
+Bouclier pentagonal+6	50
+Bouclier pentagonal+7	40
+Bouclier pentagonal+8	30
+Bouclier rond noir+0	90
+Bouclier rond noir+1	80
+Bouclier rond noir+2	70
+Bouclier rond noir+3	60
+Bouclier rond noir+4	50
+Bouclier rond noir+5	40
+Bouclier rond noir+6	30
+Bouclier rond noir+7	20
+Bouclier rond noir+8	10
+Bouclier du faucon+0	90
+Bouclier du faucon+1	90
+Bouclier du faucon+2	90
+Bouclier du faucon+3	80
+Bouclier du faucon+4	70
+Bouclier du faucon+5	60
+Bouclier du faucon+6	50
+Bouclier du faucon+7	40
+Bouclier du faucon+8	30
+Bouclier tigre singe+0	90
+Bouclier tigre singe+1	90
+Bouclier tigre singe+2	90
+Bouclier tigre singe+3	80
+Bouclier tigre singe+4	70
+Bouclier tigre singe+5	60
+Bouclier tigre singe+6	50
+Bouclier tigre singe+7	40
+Bouclier tigre singe+8	30
+Boucl. tranc. du lion+0	90
+Boucl. tranc. du lion+1	90
+Boucl. tranc. du lion+2	90
+Boucl. tranc. du lion+3	80
+Boucl. tranc. du lion+4	70
+Boucl. tranc. du lion+5	60
+Boucl. tranc. du lion+6	50
+Boucl. tranc. du lion+7	40
+Boucl. tranc. du lion+8	30
+Boucl. écaille dragon+0	90
+Boucl. écaille dragon+1	80
+Boucl. écaille dragon+2	70
+Boucl. écaille dragon+3	60
+Boucl. écaille dragon+4	50
+Boucl. écaille dragon+5	40
+Boucl. écaille dragon+6	30
+Boucl. écaille dragon+7	20
+Boucl. écaille dragon+8	10
+Bouclier des titans+0	90
+Bouclier des titans+1	80
+Bouclier des titans+2	70
+Bouclier des titans+3	60
+Bouclier des titans+4	50
+Bouclier des titans+5	40
+Bouclier des titans+6	30
+Bouclier des titans+7	20
+Bouclier des titans+8	10
+Boucl. des 3 empereurs+0	90
+Boucl. des 3 empereurs+1	80
+Boucl. des 3 empereurs+2	70
+Boucl. des 3 empereurs+3	60
+Boucl. des 3 empereurs+4	50
+Boucl. des 3 empereurs+5	40
+Boucl. des 3 empereurs+6	30
+Boucl. des 3 empereurs+7	20
+Boucl. des 3 empereurs+8	10
+Bouclier d'aura+0	90
+Bouclier d'aura+1	80
+Bouclier d'aura+2	70
+Bouclier d'aura+3	60
+Bouclier d'aura+4	50
+Bouclier d'aura+5	40
+Bouclier d'aura+6	30
+Bouclier d'aura+7	20
+Bouclier d'aura+8	10
+Bouclier pentagonal+0	90
+Bouclier pentagonal+1	90
+Bouclier pentagonal+2	90
+Bouclier pentagonal+3	80
+Bouclier pentagonal+4	70
+Bouclier pentagonal+5	60
+Bouclier pentagonal+6	50
+Bouclier pentagonal+7	40
+Bouclier pentagonal+8	30
+Bouclier rond noir+0	90
+Bouclier rond noir+1	80
+Bouclier rond noir+2	70
+Bouclier rond noir+3	60
+Bouclier rond noir+4	50
+Bouclier rond noir+5	40
+Bouclier rond noir+6	30
+Bouclier rond noir+7	20
+Bouclier rond noir+8	10
+Bouc. de la damnation+0	80
+Bouc. de la damnation+1	70
+Bouc. de la damnation+2	60
+Bouc. de la damnation+3	50
+Bouc. de la damnation+4	40
+Bouc. de la damnation+5	30
+Bouc. de la damnation+6	20
+Bouc. de la damnation+7	10
+Bouc. de la damnation+8	5
+Bracelet de bois+0	90
+Bracelet de bois+1	90
+Bracelet de bois+2	90
+Bracelet de bois+3	90
+Bracelet de bois+4	80
+Bracelet de bois+5	60
+Bracelet de bois+6	50
+Bracelet de bois+7	40
+Bracelet de bois+8	30
+bracelet de cuivre+0	90
+Bracelet de cuivre+1	90
+Bracelet de cuivre+2	90
+Bracelet de cuivre+3	90
+Bracelet de cuivre+4	80
+Bracelet de cuivre+5	60
+Bracelet de cuivre+6	50
+Bracelet de cuivre+7	40
+Bracelet de cuivre+8	30
+Bracelet d'argent+0	90
+Bracelet d'argent+1	90
+Bracelet d'argent+2	90
+Bracelet d'argent+3	90
+Bracelet d'argent+4	80
+Bracelet d'argent+5	60
+Bracelet d'argent+6	50
+Bracelet d'argent+7	40
+Bracelet d'argent+8	30
+Bracelet d'or+0	90
+Bracelet d'or+1	90
+Bracelet d'or+2	90
+Bracelet d'or+3	90
+Bracelet d'or+4	80
+Bracelet d'or+5	60
+Bracelet d'or+6	50
+Bracelet d'or+7	40
+Bracelet d'or+8	30
+Bracelet de jade+0	90
+Bracelet de jade+1	90
+Bracelet de jade+2	90
+Bracelet de jade+3	80
+Bracelet de jade+4	70
+Bracelet de jade+5	60
+Bracelet de jade+6	50
+Bracelet de jade+7	40
+Bracelet de jade+8	30
+Bracelet d'ébène+0	90
+Bracelet d'ébène+1	90
+Bracelet d'ébène+2	90
+Bracelet d'ébène+3	80
+Bracelet d'ébène+4	70
+Bracelet d'ébène+5	60
+Bracelet d'ébène+6	50
+Bracelet d'ébène+7	40
+Bracelet d'ébène+8	30
+Bracelet de perles+0	90
+Bracelet de perles+1	90
+Bracelet de perles+2	90
+Bracelet de perles+3	80
+Bracelet de perles+4	70
+Bracelet de perles+5	60
+Bracelet de perles+6	50
+Bracelet de perles+7	40
+Bracelet de perles+8	30
+Bracelet d'or blanc+0	90
+Bracelet d'or blanc+1	90
+Bracelet d'or blanc+2	90
+Bracelet d'or blanc+3	80
+Bracelet d'or blanc+4	70
+Bracelet d'or blanc+5	60
+Bracelet d'or blanc+6	50
+Bracelet d'or blanc+7	40
+Bracelet d'or blanc+8	30
+Bracelet de cristal+0	90
+Bracelet de cristal+1	80
+Bracelet de cristal+2	70
+Bracelet de cristal+3	60
+Bracelet de cristal+4	50
+Bracelet de cristal+5	40
+Bracelet de cristal+6	30
+Bracelet de cristal+7	20
+Bracelet de cristal+8	5
+Bracelet d'améthyste+0	90
+bracelet d'améthyste+1	80
+bracelet d'améthyste+2	70
+bracelet d'améthyste+3	60
+bracelet d'améthyste+4	50
+bracelet d'améthyste+5	40
+bracelet d'améthyste+6	30
+bracelet d'améthyste+7	20
+bracelet d'améthyste+8	5
+Bracelet larme céleste+0	90
+Bracelet larme céleste+1	80
+Bracelet larme céleste+2	70
+Bracelet larme céleste+3	60
+Bracelet larme céleste+4	50
+Bracelet larme céleste+5	40
+Bracelet larme céleste+6	30
+Bracelet larme céleste+7	20
+Bracelet larme céleste+8	5
+Bracelet cristal d'âme+0	90
+Bracelet cristal d'âme+1	80
+Bracelet cristal d'âme+2	70
+Bracelet cristal d'âme+3	60
+Bracelet cristal d'âme+4	50
+Bracelet cristal d'âme+5	40
+Bracelet cristal d'âme+6	30
+Bracelet cristal d'âme+7	20
+Bracelet cristal d'âme+8	5
+Bracelet rubis +0	90
+Bracelet rubis +1	80
+Bracelet rubis +2	70
+Bracelet rubis +3	60
+Bracelet rubis +4	50
+Bracelet rubis +5	40
+Bracelet rubis +6	30
+Bracelet rubis +7	20
+Bracelet rubis +8	5
+Bracelet grenat +0	90
+Bracelet grenat +1	80
+Bracelet grenat +2	70
+Bracelet grenat +3	60
+Bracelet grenat +4	50
+Bracelet grenat +5	40
+Bracelet grenat +6	30
+Bracelet grenat +7	20
+Bracelet grenat +8	5
+Bracelet émeraude +0	90
+Bracelet émeraude +1	80
+Bracelet émeraude +2	70
+Bracelet émeraude +3	60
+Bracelet émeraude +4	50
+Bracelet émeraude +5	40
+Bracelet émeraude +6	30
+Bracelet émeraude +7	20
+Bracelet émeraude +8	5
+Bracelet saphir +0	90
+Bracelet saphir +1	80
+Bracelet saphir +2	70
+Bracelet saphir +3	60
+Bracelet saphir +4	50
+Bracelet saphir +5	40
+Bracelet saphir +6	30
+Bracelet saphir +7	20
+Bracelet saphir +8	5
+Bracelet de tourmaline+0	90
+Bracelet de tourmaline+1	80
+Bracelet de tourmaline+2	70
+Bracelet de tourmaline+3	60
+Bracelet de tourmaline+4	50
+Bracelet de tourmaline+5	40
+Bracelet de tourmaline+6	30
+Bracelet de tourmaline+7	20
+Bracelet de tourmaline+8	5
+Bracelet jadéite nacr.+0	80
+Bracelet jadéite nacr.+1	70
+Bracelet jadéite nacr.+2	60
+Bracelet jadéite nacr.+3	50
+Bracelet jadéite nacr.+4	40
+Bracelet jadéite nacr.+5	30
+Bracelet jadéite nacr.+6	20
+Bracelet jadéite nacr.+7	10
+Bracelet jadéite nacr.+8	5
+Bracelet jadéite sol.+0	80
+Bracelet jadéite sol.+1	70
+Bracelet jadéite sol.+2	60
+Bracelet jadéite sol.+3	50
+Bracelet jadéite sol.+4	40
+Bracelet jadéite sol.+5	30
+Bracelet jadéite sol.+6	20
+Bracelet jadéite sol.+7	10
+Bracelet jadéite sol.+8	5
+Bracelet jadéite noc.+0	80
+Bracelet jadéite noc.+1	70
+Bracelet jadéite noc.+2	60
+Bracelet jadéite noc.+3	50
+Bracelet jadéite noc.+4	40
+Bracelet jadéite noc.+5	30
+Bracelet jadéite noc.+6	20
+Bracelet jadéite noc.+7	10
+Bracelet jadéite noc.+8	5
+Bracelet jadéite nuag.+0	80
+Bracelet jadéite nuag.+1	70
+Bracelet jadéite nuag.+2	60
+Bracelet jadéite nuag.+3	50
+Bracelet jadéite nuag.+4	40
+Bracelet jadéite nuag.+5	30
+Bracelet jadéite nuag.+6	20
+Bracelet jadéite nuag.+7	10
+Bracelet jadéite nuag.+8	5
+Chaussures de cuir+0	90
+Chaussures de cuir+1	90
+Chaussures de cuir+2	90
+Chaussures de cuir+3	90
+Chaussures de cuir+4	80
+Chaussures de cuir+5	60
+Chaussures de cuir+6	50
+Chaussures de cuir+7	40
+Chaussures de cuir+8	30
+Chaussures de bambou+0	90
+Chaussures de bambou+1	90
+Chaussures de bambou+2	90
+Chaussures de bambou+3	90
+Chaussures de bambou+4	80
+Chaussures de bambou+5	60
+Chaussures de bambou+6	50
+Chaussures de bambou+7	40
+Chaussures de bambou+8	30
+Chaussures de bois+0	90
+Chaussures de bois+1	90
+Chaussures de bois+2	90
+Chaussures de bois+3	90
+Chaussures de bois+4	80
+Chaussures de bois+5	60
+Chaussures de bois+6	50
+Chaussures de bois+7	40
+Chaussures de bois+8	30
+Chaussures fil d'Or+0	90
+Chaussures fil d'Or+1	90
+Chaussures fil d'Or+2	90
+Chaussures fil d'Or+3	90
+Chaussures fil d'Or+4	80
+Chaussures fil d'Or+5	60
+Chaussures fil d'Or+6	50
+Chaussures fil d'Or+7	40
+Chaussures fil d'Or+8	30
+Bottes de cuir+0	90
+Bottes de cuir+1	90
+Bottes de cuir+2	90
+Bottes de cuir+3	80
+Bottes de cuir+4	70
+Bottes de cuir+5	60
+Bottes de cuir+6	50
+Bottes de cuir+7	40
+Bottes de cuir+8	30
+Chaussures en or+0	90
+Chaussures en or+1	90
+Chaussures en or+2	90
+Chaussures en or+3	80
+Chaussures en or+4	70
+Chaussures en or+5	60
+Chaussures en or+6	50
+Chaussures en or+7	40
+Chaussures en or+8	30
+Bottes de bronze+0	90
+Bottes de bronze+1	90
+Bottes de bronze+2	90
+Bottes de bronze+3	80
+Bottes de bronze+4	70
+Bottes de bronze+5	60
+Bottes de bronze+6	50
+Bottes de bronze+7	40
+Bottes de bronze+8	30
+Chaussures de jade+0	90
+Chaussures de jade+1	90
+Chaussures de jade+2	90
+Chaussures de jade+3	80
+Chaussures de jade+4	70
+Chaussures de jade+5	60
+Chaussures de jade+6	50
+Chaussures de jade+7	40
+Chaussures de jade+8	30
+Chaussures d'extase+0	100
+Chaussures d'extase+1	80
+Chaussures d'extase+2	70
+Chaussures d'extase+3	60
+Chaussures d'extase+4	50
+Chaussures d'extase+5	40
+Chaussures d'extase+6	30
+Chaussures d'extase+7	20
+Chaussures d'extase+8	10
+Bottes des nimbes+0	100
+Bottes des nimbes+1	80
+Bottes des nimbes+2	70
+Bottes des nimbes+3	60
+Bottes des nimbes+4	50
+Bottes des nimbes+5	40
+Bottes des nimbes+6	30
+Bottes des nimbes+7	20
+Bottes des nimbes+8	10
+Chaussures de phoenix+0	100
+Chaussures de phoenix+1	80
+Chaussures de phoenix+2	70
+Chaussures de phoenix+3	60
+Chaussures de phoenix+4	50
+Chaussures de phoenix+5	40
+Chaussures de phoenix+6	30
+Chaussures de phoenix+7	20
+Chaussures de phoenix+8	10
+Chauss. oiseau de feu+0	100
+Chauss. oiseau de feu+1	80
+Chauss. oiseau de feu+2	70
+Chauss. oiseau de feu+3	60
+Chauss. oiseau de feu+4	50
+Chauss. oiseau de feu+5	40
+Chauss. oiseau de feu+6	30
+Chauss. oiseau de feu+7	20
+Chauss. oiseau de feu+8	10
+Chauss. dragon caché+0	100
+Chauss. dragon caché+1	80
+Chauss. dragon caché+2	70
+Chauss. dragon caché+3	60
+Chauss. dragon caché+4	50
+Chauss. dragon caché+5	40
+Chauss. dragon caché+6	30
+Chauss. dragon caché+7	20
+Chauss. dragon caché+8	10
+Chausses d'euphorie +0	100
+Chausses d'euphorie +1	80
+Chausses d'euphorie +2	70
+Chausses d'euphorie +3	60
+Chausses d'euphorie +4	63
+Chausses d'euphorie +5	51
+Chausses d'euphorie +6	30
+Chausses d'euphorie +7	20
+Chausses d'euphorie +8	10
+Bottes auréolées +0	100
+Bottes auréolées +1	80
+Bottes auréolées +2	70
+Bottes auréolées +3	60
+Bottes auréolées +4	63
+Bottes auréolées +5	51
+Bottes auréolées +6	30
+Bottes auréolées +7	20
+Bottes auréolées +8	10
+Bottes de Qilin +0	100
+Bottes de Qilin +1	80
+Bottes de Qilin +2	70
+Bottes de Qilin +3	60
+Bottes de Qilin +4	63
+Bottes de Qilin +5	51
+Bottes de Qilin +6	30
+Bottes de Qilin +7	20
+Bottes de Qilin +8	10
+Bottes d'oiseau-glace +0	100
+Bottes d'oiseau-glace +1	80
+Bottes d'oiseau-glace +2	70
+Bottes d'oiseau-glace +3	60
+Bottes d'oiseau-glace +4	63
+Bottes d'oiseau-glace +5	51
+Bottes d'oiseau-glace +6	30
+Bottes d'oiseau-glace +7	20
+Bottes d'oiseau-glace +8	10
+Chaussures de feu +0	90
+Chaussures de feu +1	75
+Chaussures de feu +2	60
+Chaussures de feu +3	45
+Chaussures de feu +4	30
+Chaussures de feu +5	20
+Chaussures de feu +6	10
+Chaussures de feu +7	8
+Chaussures de feu +8	3
+Chaussures d'océan +0	90
+Chaussures d'océan +1	75
+Chaussures d'océan +2	60
+Chaussures d'océan +3	45
+Chaussures d'océan +4	30
+Chaussures d'océan +5	20
+Chaussures d'océan +6	10
+Chaussures d'océan +7	8
+Chaussures d'océan +8	3
+Collier de bois+0	90
+Collier de bois+1	90
+Collier de bois+2	90
+Collier de bois+3	90
+Collier de bois+4	80
+Collier de bois+5	60
+Collier de bois+6	50
+Collier de bois+7	40
+Collier de bois+8	30
+Collier de cuivre+0	90
+Collier de cuivre+1	90
+Collier de cuivre+2	90
+Collier de cuivre+3	90
+Collier de cuivre+4	80
+Collier de cuivre+5	60
+Collier de cuivre+6	50
+Collier de cuivre+7	40
+Collier de cuivre+8	30
+Collier d'argent+0	90
+Collier d'argent+1	90
+Collier d'argent+2	90
+Collier d'argent+3	90
+Collier d'argent+4	80
+Collier d'argent+5	60
+Collier d'argent+6	50
+Collier d'argent+7	40
+Collier d'argent+8	30
+Collier d'or+0	90
+Collier d'or+1	90
+Collier d'or+2	90
+Collier d'or+3	90
+Collier d'or+4	80
+Collier d'or+5	60
+Collier d'or+6	50
+Collier d'or+7	40
+Collier d'or+8	30
+Collier de jade+0	90
+Collier de jade+1	90
+Collier de jade+2	90
+Collier de jade+3	80
+Collier de jade+4	70
+Collier de jade+5	60
+Collier de jade+6	50
+Collier de jade+7	40
+Collier de jade+8	30
+Collier d'ébène+0	90
+Collier d'ébène+1	90
+Collier d'ébène+2	90
+Collier d'ébène+3	80
+Collier d'ébène+4	70
+Collier d'ébène+5	60
+Collier d'ébène+6	50
+Collier d'ébène+7	40
+Collier d'ébène+8	30
+Collier de perles+0	90
+Collier de perles+1	90
+Collier de perles+2	90
+Collier de perles+3	80
+Collier de perles+4	70
+Collier de perles+5	60
+Collier de perles+6	50
+Collier de perles+7	40
+Collier de perles+8	30
+Collier d'or blanc+0	90
+Collier d'or blanc+1	90
+Collier d'or blanc+2	90
+Collier d'or blanc+3	80
+Collier d'or blanc+4	70
+Collier d'or blanc+5	60
+Collier d'or blanc+6	50
+Collier d'or blanc+7	40
+Collier d'or blanc+8	30
+Collier de cristal+0	90
+Collier de cristal+1	80
+Collier de cristal+2	70
+Collier de cristal+3	60
+Collier de cristal+4	50
+Collier de cristal+5	40
+Collier de cristal+6	30
+Collier de cristal+7	20
+Collier de cristal+8	10
+Collier d'améthyste+0	90
+Collier d'améthyste+1	80
+Collier d'améthyste+2	70
+Collier d'améthyste+3	60
+Collier d'améthyste+4	50
+Collier d'améthyste+5	40
+Collier d'améthyste+6	30
+Collier d'améthyste+7	20
+Collier d'améthyste+8	10
+Collier larme céleste+0	90
+Collier larme céleste+1	80
+Collier larme céleste+2	70
+Collier larme céleste+3	60
+Collier larme céleste+4	50
+Collier larme céleste+5	40
+Collier larme céleste+6	30
+Collier larme céleste+7	20
+Collier larme céleste+8	10
+Collier cristal d'âme+0	90
+Collier cristal d'âme+1	80
+Collier cristal d'âme+2	70
+Collier cristal d'âme+3	60
+Collier cristal d'âme+4	50
+Collier cristal d'âme+5	40
+Collier cristal d'âme+6	30
+Collier cristal d'âme+7	20
+Collier cristal d'âme+8	5
+Collier rubis +0	90
+Collier rubis +1	80
+Collier rubis +2	70
+Collier rubis +3	60
+Collier rubis +4	50
+Collier rubis +5	40
+Collier rubis +6	30
+Collier rubis +7	20
+Collier rubis +8	5
+Collier grenat +0	90
+Collier grenat +1	80
+Collier grenat +2	70
+Collier grenat +3	60
+Collier grenat +4	50
+Collier grenat +5	40
+Collier grenat +6	30
+Collier grenat +7	20
+Collier grenat +8	5
+Collier émeraude +0	90
+Collier émeraude +1	80
+Collier émeraude +2	70
+Collier émeraude +3	60
+Collier émeraude +4	50
+Collier émeraude +5	40
+Collier émeraude +6	30
+Collier émeraude +7	20
+Collier émeraude +8	5
+Collier saphir +0	90
+Collier saphir +1	80
+Collier saphir +2	70
+Collier saphir +3	60
+Collier saphir +4	50
+Collier saphir +5	40
+Collier saphir +6	30
+Collier saphir +7	20
+Collier saphir +8	5
+Collier de tourmaline+0	90
+Collier de tourmaline+1	80
+Collier de tourmaline+2	70
+Collier de tourmaline+3	60
+Collier de tourmaline+4	50
+Collier de tourmaline+5	40
+Collier de tourmaline+6	30
+Collier de tourmaline+7	20
+Collier de tourmaline+8	5
+Collier jadéite nacrée+0	80
+Collier jadéite nacrée+1	70
+Collier jadéite nacrée+2	60
+Collier jadéite nacrée+3	50
+Collier jadéite nacrée+4	40
+Collier jadéite nacrée+5	30
+Collier jadéite nacrée+6	20
+Collier jadéite nacrée+7	10
+Collier jadéite nacrée+8	5
+Collier jadéite sol.+0	80
+Collier jadéite sol.+1	70
+Collier jadéite sol.+2	60
+Collier jadéite sol.+3	50
+Collier jadéite sol.+4	40
+Collier jadéite sol.+5	30
+Collier jadéite sol.+6	20
+Collier jadéite sol.+7	10
+Collier jadéite sol.+8	5
+Collier jadéite noc.+0	80
+Collier jadéite noc.+1	70
+Collier jadéite noc.+2	60
+Collier jadéite noc.+3	50
+Collier jadéite noc.+4	40
+Collier jadéite noc.+5	30
+Collier jadéite noc.+6	20
+Collier jadéite noc.+7	10
+Collier jadéite noc.+8	5
+Collier jadéite nuag.+0	80
+Collier jadéite nuag.+1	70
+Collier jadéite nuag.+2	60
+Collier jadéite nuag.+3	50
+Collier jadéite nuag.+4	40
+Collier jadéite nuag.+5	30
+Collier jadéite nuag.+6	20
+Collier jadéite nuag.+7	10
+Collier jadéite nuag.+8	5
+Boucles oreille bois+0	90
+Boucles oreille bois+1	90
+Boucles oreille bois+2	90
+Boucles oreille bois+3	90
+Boucles oreille bois+4	80
+Boucles oreille bois+5	60
+Boucles oreille bois+6	50
+Boucles oreille bois+7	40
+Boucles oreille bois+8	30
+Boucles oreille cuivre+0	90
+Boucles oreille cuivre+1	90
+Boucles oreille cuivre+2	90
+Boucles oreille cuivre+3	90
+Boucles oreille cuivre+4	80
+Boucles oreille cuivre+5	60
+Boucles oreille cuivre+6	50
+Boucles oreille cuivre+7	40
+Boucles oreille cuivre+8	30
+Boucles oreille argent+0	90
+Boucles oreille argent+1	90
+Boucles oreille argent+2	90
+Boucles oreille argent+3	90
+Boucles oreille argent+4	80
+Boucles oreille argent+5	60
+Boucles oreille argent+6	50
+Boucles oreille argent+7	40
+Boucles oreille argent+8	30
+Boucles d'oreille or+0	90
+Boucles d'oreille or+1	90
+Boucles d'oreille or+2	90
+Boucles d'oreille or+3	90
+Boucles d'oreille or+4	80
+Boucles d'oreille or+5	60
+Boucles d'oreille or+6	50
+Boucles d'oreille or+7	40
+Boucles d'oreille or+8	30
+Boucles oreille jade+0	90
+Boucles oreille jade+1	90
+Boucles oreille jade+2	90
+Boucles oreille jade+3	80
+Boucles oreille jade+4	70
+Boucles oreille jade+5	60
+Boucles oreille jade+6	50
+Boucles oreille jade+7	40
+Boucles oreille jade+8	15
+Boucles oreille ébène+0	90
+Boucles oreille ébène+1	90
+Boucles oreille ébène+2	90
+Boucles oreille ébène+3	80
+Boucles oreille ébène+4	70
+Boucles oreille ébène+5	60
+Boucles oreille ébène+6	50
+Boucles oreille ébène+7	40
+Boucles oreille ébène+8	15
+Boucles oreille perle+0	90
+Boucles oreille perle+1	90
+Boucles oreille perle+2	90
+Boucles oreille perle+3	80
+Boucles oreille perle+4	70
+Boucles oreille perle+5	60
+Boucles oreille perle+6	50
+Boucles oreille perle+7	40
+Boucles oreille perle+8	15
+Boucle oreil. or blanc+0	90
+Boucle oreil. or blanc+1	90
+Boucle oreil. or blanc+2	90
+Boucle oreil. or blanc+3	80
+Boucle oreil. or blanc+4	70
+Boucle oreil. or blanc+5	60
+Boucle oreil. or blanc+6	50
+Boucle oreil. or blanc+7	40
+Boucle oreil. or blanc+8	15
+Boucles oreil. cristal+0	90
+Boucles oreil. cristal+1	80
+Boucles oreil. cristal+2	70
+Boucles oreil. cristal+3	60
+Boucles oreil. cristal+4	50
+Boucles oreil. cristal+5	40
+Boucles oreil. cristal+6	30
+Boucles oreil. cristal+7	20
+Boucles oreil. cristal+8	10
+Boucle oreille améth.+0	90
+Boucle oreille améth.+1	80
+Boucle oreille améth.+2	70
+Boucle oreille améth.+3	60
+Boucle oreille améth.+4	50
+Boucle oreille améth.+5	40
+Boucle oreille améth.+6	30
+Boucle oreille améth.+7	20
+Boucle oreille améth.+8	10
+Boucle oreil. larme C+0	90
+Boucle oreil. larme C+1	80
+Boucle oreil. larme C+2	70
+Boucle oreil. larme C+3	60
+Boucle oreil. larme C+4	50
+Boucle oreil. larme C+5	40
+Boucle oreil. larme C+6	30
+Boucle oreil. larme C+7	20
+Boucle oreil. larme C+8	10
+Boucles cristal d'âme+0	90
+Boucles cristal d'âme+1	80
+Boucles cristal d'âme+2	70
+Boucles cristal d'âme+3	60
+Boucles cristal d'âme+4	50
+Boucles cristal d'âme+5	40
+Boucles cristal d'âme+6	30
+Boucles cristal d'âme+7	20
+Boucles cristal d'âme+8	5
+Boucles rubis +0	90
+Boucles rubis +1	80
+Boucles rubis +2	70
+Boucles rubis +3	60
+Boucles rubis +4	50
+Boucles rubis +5	40
+Boucles rubis +6	30
+Boucles rubis +7	20
+Boucles rubis +8	5
+Boucles grenat +0	90
+Boucles grenat +1	80
+Boucles grenat +2	70
+Boucles grenat +3	60
+Boucles grenat +4	50
+Boucles grenat +5	40
+Boucles grenat +6	30
+Boucles grenat +7	20
+Boucles grenat +8	5
+Boucles émeraude +0	90
+Boucles émeraude +1	80
+Boucles émeraude +2	70
+Boucles émeraude +3	60
+Boucles émeraude +4	50
+Boucles émeraude +5	40
+Boucles émeraude +6	30
+Boucles émeraude +7	20
+Boucles émeraude +8	5
+Boucles saphir +0	90
+Boucles saphir +1	80
+Boucles saphir +2	70
+Boucles saphir +3	60
+Boucles saphir +4	50
+Boucles saphir +5	40
+Boucles saphir +6	30
+Boucles saphir +7	20
+Boucles saphir +8	5
+B. oreille jadé. nac.+0	80
+B. oreille jadé. nac.+1	70
+B. oreille jadé. nac.+2	60
+B. oreille jadé. nac.+3	50
+B. oreille jadé. nac.+4	40
+B. oreille jadé. nac.+5	30
+B. oreille jadé. nac.+6	20
+B. oreille jadé. nac.+7	10
+B. oreille jadé. nac.+8	5
+B. oreille jadé. sol.+0	80
+B. oreille jadé. sol.+1	70
+B. oreille jadé. sol.+2	60
+B. oreille jadé. sol.+3	50
+B. oreille jadé. sol.+4	40
+B. oreille jadé. sol.+5	30
+B. oreille jadé. sol.+6	20
+B. oreille jadé. sol.+7	10
+B. oreille jadé. sol.+8	5
+B. oreille jadé. noc.+0	80
+B. oreille jadé. noc.+1	70
+B. oreille jadé. noc.+2	60
+B. oreille jadé. noc.+3	50
+B. oreille jadé. noc.+4	40
+B. oreille jadé. noc.+5	30
+B. oreille jadé. noc.+6	20
+B. oreille jadé. noc.+7	10
+B. oreille jadé. noc.+8	5
+B. oreille jadé. nuag.+0	80
+B. oreille jadé. nuag.+1	70
+B. oreille jadé. nuag.+2	60
+B. oreille jadé. nuag.+3	50
+B. oreille jadé. nuag.+4	40
+B. oreille jadé. nuag.+5	30
+B. oreille jadé. nuag.+6	20
+B. oreille jadé. nuag.+7	10
+B. oreille jadé. nuag.+8	5
+Ceinture en lin+0	90
+Ceinture en lin+1	90
+Ceinture en lin+2	90
+Ceinture en lin+3	80
+Ceinture en lin+4	70
+Ceinture en lin+5	60
+Ceinture en lin+6	50
+Ceinture en lin+7	40
+Ceinture en lin+8	15
+Ceinture en cuir+0	90
+Ceinture en cuir+1	80
+Ceinture en cuir+2	70
+Ceinture en cuir+3	60
+Ceinture en cuir+4	50
+Ceinture en cuir+5	40
+Ceinture en cuir+6	30
+Ceinture en cuir+7	20
+Ceinture en cuir+8	10
+Ceinture d'apparat+0	90
+Ceinture d'apparat+1	80
+Ceinture d'apparat+2	70
+Ceinture d'apparat+3	60
+Ceinture d'apparat+4	50
+Ceinture d'apparat+5	40
+Ceinture d'apparat+6	30
+Ceinture d'apparat+7	20
+Ceinture d'apparat+8	5
+Ceinture de sagesse+0	90
+Ceinture de sagesse+1	80
+Ceinture de sagesse+2	70
+Ceinture de sagesse+3	60
+Ceinture de sagesse+4	50
+Ceinture de sagesse+5	40
+Ceinture de sagesse+6	30
+Ceinture de sagesse+7	20
+Ceinture de sagesse+8	5
+Ceinture royale+0	100
+Ceinture royale+1	80
+Ceinture royale+2	45
+Ceinture royale+3	25
+Ceinture royale+4	15
+Ceinture royale+5	8
+Ceinture royale+6	5
+Ceinture royale+7	2
+Ceinture royale+8	1
+Ceinture ténébreuse+0	100
+Ceinture ténébreuse+1	80
+Ceinture ténébreuse+2	45
+Ceinture ténébreuse+3	25
+Ceinture ténébreuse+4	15
+Ceinture ténébreuse+5	8
+Ceinture ténébreuse+6	5
+Ceinture ténébreuse+7	2
+Ceinture ténébreuse+8	1
+Ceinture runique+0	100
+Ceinture runique+1	80
+Ceinture runique+2	45
+Ceinture runique+3	25
+Ceinture runique+4	15
+Ceinture runique+5	8
+Ceinture runique+6	5
+Ceinture runique+7	2
+Ceinture runique+8	1
+Ceinture Grande Ourse+0	100
+Ceinture Grande Ourse+1	80
+Ceinture Grande Ourse+2	45
+Ceinture Grande Ourse+3	25
+Ceinture Grande Ourse+4	15
+Ceinture Grande Ourse+5	8
+Ceinture Grande Ourse+6	5
+Ceinture Grande Ourse+7	2
+Ceinture Grande Ourse+8	1
+Ceinture d'Esprit+0	100
+Ceinture d'Esprit+1	80
+Ceinture d'Esprit+2	45
+Ceinture d'Esprit+3	25
+Ceinture d'Esprit+4	15
+Ceinture d'Esprit+5	8
+Ceinture d'Esprit+6	5
+Ceinture d'Esprit+7	2
+Ceinture d'Esprit+8	1
+Ceinture de tourmaline+0	100
+Ceinture de tourmaline+1	80
+Ceinture de tourmaline+2	45
+Ceinture de tourmaline+3	25
+Ceinture de tourmaline+4	15
+Ceinture de tourmaline+5	8
+Ceinture de tourmaline+6	5
+Ceinture de tourmaline+7	2
+Ceinture de tourmaline+8	1
+Ceinture en titane+0	70
+Ceinture en titane+1	60
+Ceinture en titane+2	50
+Ceinture en titane+3	45
+Ceinture en titane+4	25
+Ceinture en titane+5	20
+Ceinture en titane+6	15
+Ceinture en titane+7	10
+Ceinture en titane+8	5
+Armure du zodiaque+0	90
+Armure du zodiaque+1	75
+Armure du zodiaque+2	60
+Armure du zodiaque+3	45
+Armure du zodiaque+4	30
+Armure du zodiaque+5	20
+Armure du zodiaque+6	10
+Armure du zodiaque+7	8
+Armure du zodiaque+8	3
+Costume du zodiaque+0	90
+Costume du zodiaque+1	75
+Costume du zodiaque+2	60
+Costume du zodiaque+3	45
+Costume du zodiaque+4	30
+Costume du zodiaque+5	20
+Costume du zodiaque+6	10
+Costume du zodiaque+7	8
+Costume du zodiaque+8	3
+Harnois du zodiaque+0	90
+Harnois du zodiaque+1	75
+Harnois du zodiaque+2	60
+Harnois du zodiaque+3	45
+Harnois du zodiaque+4	30
+Harnois du zodiaque+5	20
+Harnois du zodiaque+6	10
+Harnois du zodiaque+7	8
+Harnois du zodiaque+8	3
+Vêtement du zodiaque+0	90
+Vêtement du zodiaque+1	75
+Vêtement du zodiaque+2	60
+Vêtement du zodiaque+3	45
+Vêtement du zodiaque+4	30
+Vêtement du zodiaque+5	20
+Vêtement du zodiaque+6	10
+Vêtement du zodiaque+7	8
+Vêtement du zodiaque+8	3
+Armure corne du diable+0	100
+Armure corne du diable+1	80
+Armure corne du diable+2	45
+Armure corne du diable+3	25
+Armure corne du diable+4	15
+Armure corne du diable+5	8
+Armure corne du diable+6	5
+Armure corne du diable+7	2
+Armure corne du diable+8	1
+Tenue cavalier dragon+0	100
+Tenue cavalier dragon+1	80
+Tenue cavalier dragon+2	45
+Tenue cavalier dragon+3	25
+Tenue cavalier dragon+4	15
+Tenue cavalier dragon+5	8
+Tenue cavalier dragon+6	5
+Tenue cavalier dragon+7	2
+Tenue cavalier dragon+8	1
+Armure plates d'os+0	100
+Armure plates d'os+1	80
+Armure plates d'os+2	45
+Armure plates d'os+3	25
+Armure plates d'os+4	15
+Armure plates d'os+5	8
+Armure plates d'os+6	5
+Armure plates d'os+7	2
+Armure plates d'os+8	1
+Vêtement doré+0	100
+Vêtement doré+1	80
+Vêtement doré+2	45
+Vêtement doré+3	25
+Vêtement doré+4	15
+Vêtement doré+5	8
+Vêtement doré+6	5
+Vêtement doré+7	2
+Vêtement doré+8	1
+Armure d'aurore +0	90
+Armure d'aurore +1	75
+Armure d'aurore +2	60
+Armure d'aurore +3	45
+Armure d'aurore +4	30
+Armure d'aurore +5	20
+Armure d'aurore +6	10
+Armure d'aurore +7	8
+Armure d'aurore +8	3
+Costume d'embuscade +0	90
+Costume d'embuscade +1	75
+Costume d'embuscade +2	60
+Costume d'embuscade +3	45
+Costume d'embuscade +4	30
+Costume d'embuscade +5	20
+Costume d'embuscade +6	10
+Costume d'embuscade +7	8
+Costume d'embuscade +8	3
+Armure griffe de démon+0	90
+Armure griffe de démon+1	75
+Armure griffe de démon+2	60
+Armure griffe de démon+3	45
+Armure griffe de démon+4	30
+Armure griffe de démon+5	20
+Armure griffe de démon+6	10
+Armure griffe de démon+7	8
+Armure griffe de démon+8	3
+Vêtement de la foi +0	90
+Vêtement de la foi +1	75
+Vêtement de la foi +2	60
+Vêtement de la foi +3	45
+Vêtement de la foi +4	30
+Vêtement de la foi +5	20
+Vêtement de la foi +6	10
+Vêtement de la foi +7	8
+Vêtement de la foi +8	3
+Armu. guer. de l'omb. +0	90
+Armu. guer. de l'omb. +1	75
+Armu. guer. de l'omb. +2	60
+Armu. guer. de l'omb. +3	45
+Armu. guer. de l'omb. +4	30
+Armu. guer. de l'omb. +5	20
+Armu. guer. de l'omb. +6	10
+Armu. guer. de l'omb. +7	8
+Armu. guer. de l'omb. +8	3
+Armure de magma +0	90
+Armure de magma +1	75
+Armure de magma +2	60
+Armure de magma +3	45
+Armure de magma +4	30
+Armure de magma +5	20
+Armure de magma +6	10
+Armure de magma +7	8
+Armure de magma +8	3
+Costume de lune rouge +0	90
+Costume de lune rouge +1	75
+Costume de lune rouge +2	60
+Costume de lune rouge +3	45
+Costume de lune rouge +4	30
+Costume de lune rouge +5	20
+Costume de lune rouge +6	10
+Costume de lune rouge +7	8
+Costume de lune rouge +8	3
+Armure infernale +0	90
+Armure infernale +1	75
+Armure infernale +2	60
+Armure infernale +3	45
+Armure infernale +4	30
+Armure infernale +5	20
+Armure infernale +6	10
+Armure infernale +7	8
+Armure infernale +8	3
+Vêtement du feu +0	90
+Vêtement du feu +1	75
+Vêtement du feu +2	60
+Vêtement du feu +3	45
+Vêtement du feu +4	30
+Vêtement du feu +5	20
+Vêtement du feu +6	10
+Vêtement du feu +7	8
+Vêtement du feu +8	3
+Armure d'agate +0	90
+Armure d'agate +1	75
+Armure d'agate +2	60
+Armure d'agate +3	45
+Armure d'agate +4	30
+Armure d'agate +5	20
+Armure d'agate +6	10
+Armure d'agate +7	8
+Armure d'agate +8	3
+Armure os de baleine +0	90
+Armure os de baleine +1	75
+Armure os de baleine +2	60
+Armure os de baleine +3	45
+Armure os de baleine +4	30
+Armure os de baleine +5	20
+Armure os de baleine +6	10
+Armure os de baleine +7	8
+Armure os de baleine +8	3
+Vêtement métamorphe +0	90
+Vêtement métamorphe +1	75
+Vêtement métamorphe +2	60
+Vêtement métamorphe +3	45
+Vêtement métamorphe +4	30
+Vêtement métamorphe +5	20
+Vêtement métamorphe +6	10
+Vêtement métamorphe +7	8
+Vêtement métamorphe +8	3
+Armure de feu follet +0	90
+Armure de feu follet +1	75
+Armure de feu follet +2	60
+Armure de feu follet +3	45
+Armure de feu follet +4	30
+Armure de feu follet +5	20
+Armure de feu follet +6	10
+Armure de feu follet +7	8
+Armure de feu follet +8	3
+Vêtement d'harmonie +0	90
+Vêtement d'harmonie +1	75
+Vêtement d'harmonie +2	60
+Vêtement d'harmonie +3	45
+Vêtement d'harmonie +4	30
+Vêtement d'harmonie +5	20
+Vêtement d'harmonie +6	10
+Vêtement d'harmonie +7	8
+Vêtement d'harmonie +8	3
+Armure pierre de lune +0	90
+Armure pierre de lune +1	75
+Armure pierre de lune +2	60
+Armure pierre de lune +3	45
+Armure pierre de lune +4	30
+Armure pierre de lune +5	20
+Armure pierre de lune +6	10
+Armure pierre de lune +7	8
+Armure pierre de lune +8	3
+Armu. pluie de cendr. +0	90
+Armu. pluie de cendr. +1	75
+Armu. pluie de cendr. +2	60
+Armu. pluie de cendr. +3	45
+Armu. pluie de cendr. +4	30
+Armu. pluie de cendr. +5	20
+Armu. pluie de cendr. +6	10
+Armu. pluie de cendr. +7	8
+Armu. pluie de cendr. +8	3
+Pyjama mortel +0	90
+Pyjama mortel +1	75
+Pyjama mortel +2	60
+Pyjama mortel +3	45
+Pyjama mortel +4	30
+Pyjama mortel +5	20
+Pyjama mortel +6	10
+Pyjama mortel +7	8
+Pyjama mortel +8	3
+Armure du feu noir +0	90
+Armure du feu noir +1	75
+Armure du feu noir +2	60
+Armure du feu noir +3	45
+Armure du feu noir +4	30
+Armure du feu noir +5	20
+Armure du feu noir +6	10
+Armure du feu noir +7	8
+Armure du feu noir +8	3
+Vêtement de lune +0	90
+Vêtement de lune +1	75
+Vêtement de lune +2	60
+Vêtement de lune +3	45
+Vêtement de lune +4	30
+Vêtement de lune +5	20
+Vêtement de lune +6	10
+Vêtement de lune +7	8
+Vêtement de lune +8	3
+Armure d'onyx +0	90
+Armure d'onyx +1	75
+Armure d'onyx +2	60
+Armure d'onyx +3	45
+Armure d'onyx +4	30
+Armure d'onyx +5	20
+Armure d'onyx +6	10
+Armure d'onyx +7	8
+Armure d'onyx +8	3
+Armure du vent céleste+0	90
+Armure du vent céleste+1	90
+Armure du vent céleste+2	90
+Armure du vent céleste+3	90
+Armure du vent céleste+4	80
+Armure du vent céleste+5	60
+Armure du vent céleste+6	50
+Armure du vent céleste+7	40
+Armure du vent céleste+8	30
+Armure de l'ouragan+0	90
+Armure de l'ouragan+1	90
+Armure de l'ouragan+2	90
+Armure de l'ouragan+3	80
+Armure de l'ouragan+4	70
+Armure de l'ouragan+5	60
+Armure de l'ouragan+6	50
+Armure de l'ouragan+7	40
+Armure de l'ouragan+8	30
+Armure de malachite+0	90
+Armure de malachite+1	90
+Armure de malachite+2	90
+Armure de malachite+3	80
+Armure de malachite+4	70
+Armure de malachite+5	60
+Armure de malachite+6	50
+Armure de malachite+7	40
+Armure de malachite+8	30
+Armure de l'orage+0	90
+Armure de l'orage+1	90
+Armure de l'orage+2	90
+Armure de l'orage+3	80
+Armure de l'orage+4	70
+Armure de l'orage+5	60
+Armure de l'orage+6	50
+Armure de l'orage+7	40
+Armure de l'orage+8	30
+Armure de bronze+0	90
+Armure de bronze+1	80
+Armure de bronze+2	70
+Armure de bronze+3	60
+Armure de bronze+4	50
+Armure de bronze+5	40
+Armure de bronze+6	30
+Armure de bronze+7	20
+Armure de bronze+8	10
+Armure de Kobold+0	90
+Armure de Kobold+1	80
+Armure de Kobold+2	70
+Armure de Kobold+3	60
+Armure de Kobold+4	50
+Armure de Kobold+5	40
+Armure de Kobold+6	30
+Armure de Kobold+7	20
+Armure de Kobold+8	10
+Armure de Firellium+0	90
+Armure de Firellium+1	80
+Armure de Firellium+2	70
+Armure de Firellium+3	60
+Armure de Firellium+4	50
+Armure de Firellium+5	40
+Armure de Firellium+6	30
+Armure de Firellium+7	20
+Armure de Firellium+8	10
+Armure d'ombre+0	90
+Armure d'ombre+1	80
+Armure d'ombre+2	70
+Armure d'ombre+3	60
+Armure d'ombre+4	50
+Armure d'ombre+5	40
+Armure d'ombre+6	30
+Armure d'ombre+7	20
+Armure d'ombre+8	10
+Armure de rôdeur+0	100
+Armure de rôdeur+1	74
+Armure de rôdeur+2	68
+Armure de rôdeur+3	60
+Armure de rôdeur+4	50
+Armure de rôdeur+5	39
+Armure de rôdeur+6	27
+Armure de rôdeur+7	15
+Armure de rôdeur+8	7
+Armure de général+0	100
+Armure de général+1	80
+Armure de général+2	45
+Armure de général+3	25
+Armure de général+4	15
+Armure de général+5	8
+Armure de général+6	5
+Armure de général+7	2
+Armure de général+8	1
+Cuirasse du zodiaque+0	90
+Cuirasse du zodiaque+1	75
+Cuirasse du zodiaque+2	60
+Cuirasse du zodiaque+3	45
+Cuirasse du zodiaque+4	30
+Cuirasse du zodiaque+5	20
+Cuirasse du zodiaque+6	10
+Cuirasse du zodiaque+7	8
+Cuirasse du zodiaque+8	3
+Armure du dragon obs.+0	90
+Armure du dragon obs.+1	75
+Armure du dragon obs.+2	60
+Armure du dragon obs.+3	50
+Armure du dragon obs.+4	40
+Armure du dragon obs.+5	30
+Armure du dragon obs.+6	25
+Armure du dragon obs.+7	15
+Armure du dragon obs.+8	8
+Armure du dragon obs.+9	5
+Armure du dragon obs.+10	5
+Armure du dragon obs.+11	5
+Armure du dragon obs.+12	5
+Armure du dragon obs.+13	3
+Armure du dragon obs.+14	3
+Armure dragon agité+0	90
+Armure dragon agité+1	75
+Armure dragon agité+2	60
+Armure dragon agité+3	50
+Armure dragon agité+4	40
+Armure dragon agité+5	30
+Armure dragon agité+6	25
+Armure dragon agité+7	15
+Armure dragon agité+8	8
+Armure dragon agité+9	5
+Armure dragon agité+10	5
+Armure dragon agité+11	5
+Armure dragon agité+12	5
+Armure dragon agité+13	3
+Armure dragon agité+14	3
+Armure du dragon mag.+0	90
+Armure du dragon mag.+1	75
+Armure du dragon mag.+2	60
+Armure du dragon mag.+3	50
+Armure du dragon mag.+4	40
+Armure du dragon mag.+5	30
+Armure du dragon mag.+6	25
+Armure du dragon mag.+7	15
+Armure du dragon mag.+8	8
+Armure du dragon mag.+9	5
+Armure du dragon mag.+10	5
+Armure du dragon mag.+11	5
+Armure du dragon mag.+12	5
+Armure du dragon mag.+13	3
+Armure du dragon mag.+14	3
+Armure du dragon div.+0	90
+Armure du dragon div.+1	75
+Armure du dragon div.+2	60
+Armure du dragon div.+3	50
+Armure du dragon div.+4	40
+Armure du dragon div.+5	30
+Armure du dragon div.+6	25
+Armure du dragon div.+7	15
+Armure du dragon div.+8	8
+Armure du dragon div.+9	5
+Armure du dragon div.+10	5
+Armure du dragon div.+11	5
+Armure du dragon div.+12	5
+Armure du dragon div.+13	3
+Armure du dragon div.+14	3
+Armure dragon céleste+0	90
+Armure dragon céleste+1	75
+Armure dragon céleste+2	60
+Armure dragon céleste+3	50
+Armure dragon céleste+4	40
+Armure dragon céleste+5	30
+Armure dragon céleste+6	25
+Armure dragon céleste+7	15
+Armure dragon céleste+8	8
+Armure dragon céleste+9	5
+Armure dragon céleste+10	5
+Armure dragon céleste+11	5
+Armure dragon céleste+12	5
+Armure dragon céleste+13	3
+Armure dragon céleste+14	3
+Manteau serpent+0	90
+Manteau serpent+1	75
+Manteau serpent+2	60
+Manteau serpent+3	50
+Manteau serpent+4	40
+Manteau serpent+5	30
+Manteau serpent+6	25
+Manteau serpent+7	15
+Manteau serpent+8	8
+Manteau serpent+9	5
+Manteau serpent+10	5
+Manteau serpent+11	5
+Manteau serpent+12	5
+Manteau serpent+13	3
+Manteau serpent+14	3
+Veste serpent+0	90
+Veste serpent+1	75
+Veste serpent+2	60
+Veste serpent+3	50
+Veste serpent+4	40
+Veste serpent+5	30
+Veste serpent+6	25
+Veste serpent+7	15
+Veste serpent+8	8
+Veste serpent+9	5
+Veste serpent+10	5
+Veste serpent+11	5
+Veste serpent+12	5
+Veste serpent+13	3
+Veste serpent+14	3
+Manteau serpent vil+0	90
+Manteau serpent vil+1	75
+Manteau serpent vil+2	60
+Manteau serpent vil+3	50
+Manteau serpent vil+4	40
+Manteau serpent vil+5	30
+Manteau serpent vil+6	25
+Manteau serpent vil+7	15
+Manteau serpent vil+8	8
+Manteau serpent vil+9	5
+Manteau serpent vil+10	5
+Manteau serpent vil+11	5
+Manteau serpent vil+12	5
+Manteau serpent vil+13	3
+Manteau serpent vil+14	3
+Manteau serpent pur+0	90
+Manteau serpent pur+1	75
+Manteau serpent pur+2	60
+Manteau serpent pur+3	50
+Manteau serpent pur+4	40
+Manteau serpent pur+5	30
+Manteau serpent pur+6	25
+Manteau serpent pur+7	15
+Manteau serpent pur+8	8
+Manteau serpent pur+9	5
+Manteau serpent pur+10	5
+Manteau serpent pur+11	5
+Manteau serpent pur+12	5
+Manteau serpent pur+13	3
+Manteau serpent pur+14	3
+Manteau serpent cél.+0	90
+Manteau serpent cél.+1	75
+Manteau serpent cél.+2	60
+Manteau serpent cél.+3	50
+Manteau serpent cél.+4	40
+Manteau serpent cél.+5	30
+Manteau serpent cél.+6	25
+Manteau serpent cél.+7	15
+Manteau serpent cél.+8	8
+Manteau serpent cél.+9	5
+Manteau serpent cél.+10	5
+Manteau serpent cél.+11	5
+Manteau serpent cél.+12	5
+Manteau serpent cél.+13	3
+Manteau serpent cél.+14	3
+Heaume de squelette+0	90
+Heaume de squelette+1	90
+Heaume de squelette+2	90
+Heaume de squelette+3	90
+Heaume de squelette+4	80
+Heaume de squelette+5	60
+Heaume de squelette+6	50
+Heaume de squelette+7	40
+Heaume de squelette+8	30
+Heaume voilé d'ébène+0	90
+Heaume voilé d'ébène+1	90
+Heaume voilé d'ébène+2	90
+Heaume voilé d'ébène+3	80
+Heaume voilé d'ébène+4	70
+Heaume voilé d'ébène+5	60
+Heaume voilé d'ébène+6	50
+Heaume voilé d'ébène+7	40
+Heaume voilé d'ébène+8	30
+Heaume fulgurant+0	90
+Heaume fulgurant+1	80
+Heaume fulgurant+2	70
+Heaume fulgurant+3	60
+Heaume fulgurant+4	50
+Heaume fulgurant+5	40
+Heaume fulgurant+6	30
+Heaume fulgurant+7	20
+Heaume fulgurant+8	10
+Heaume céleste béni+0	90
+Heaume céleste béni+1	80
+Heaume céleste béni+2	70
+Heaume céleste béni+3	60
+Heaume céleste béni+4	50
+Heaume céleste béni+5	40
+Heaume céleste béni+6	30
+Heaume céleste béni+7	20
+Heaume céleste béni+8	10
+Heaume du Bois Vert+0	90
+Heaume du Bois Vert+1	80
+Heaume du Bois Vert+2	70
+Heaume du Bois Vert+3	60
+Heaume du Bois Vert+4	50
+Heaume du Bois Vert+5	40
+Heaume du Bois Vert+6	30
+Heaume du Bois Vert+7	20
+Heaume du Bois Vert+8	10
+Casque-dragon à corne +0	90
+Casque-dragon à corne +1	80
+Casque-dragon à corne +2	70
+Casque-dragon à corne +3	60
+Casque-dragon à corne +4	50
+Casque-dragon à corne +5	40
+Casque-dragon à corne +6	30
+Casque-dragon à corne +7	20
+Casque-dragon à corne +8	10
+Gants de force+0	80
+Gants de force+1	70
+Gants de force+2	60
+Gants de force+3	50
+Gants de force+4	40
+Gants de force+5	30
+Gants de force+6	20
+Gants de force+7	10
+Gants de force+8	5
+Gants d'agilité+0	80
+Gants d'agilité+1	70
+Gants d'agilité+2	60
+Gants d'agilité+3	50
+Gants d'agilité+4	40
+Gants d'agilité+5	30
+Gants d'agilité+6	20
+Gants d'agilité+7	10
+Gants d'agilité+8	5
+Gants blindés+0	80
+Gants blindés+1	70
+Gants blindés+2	60
+Gants blindés+3	50
+Gants blindés+4	40
+Gants blindés+5	30
+Gants blindés+6	20
+Gants blindés+7	10
+Gants blindés+8	5
+Gants protecteurs+0	80
+Gants protecteurs+1	70
+Gants protecteurs+2	60
+Gants protecteurs+3	50
+Gants protecteurs+4	40
+Gants protecteurs+5	30
+Gants protecteurs+6	20
+Gants protecteurs+7	10
+Gants protecteurs+8	5
+Gants serpent (STR) +0	80
+Gants serpent (STR) +1	70
+Gants serpent (STR) +2	60
+Gants serpent (STR) +3	50
+Gants serpent (STR) +4	40
+Gants serpent (STR) +5	30
+Gants serpent (STR) +6	20
+Gants serpent (STR) +7	10
+Gants serpent (STR) +8	5
+Gants serpent (RES) +0	80
+Gants serpent (RES) +1	70
+Gants serpent (RES) +2	60
+Gants serpent (RES) +3	50
+Gants serpent (RES) +4	40
+Gants serpent (RES) +5	30
+Gants serpent (RES) +6	20
+Gants serpent (RES) +7	10
+Gants serpent (RES) +8	5
+Gants serpent (VIT) +0	80
+Gants serpent (VIT) +1	70
+Gants serpent (VIT) +2	60
+Gants serpent (VIT) +3	50
+Gants serpent (VIT) +4	40
+Gants serpent (VIT) +5	30
+Gants serpent (VIT) +6	20
+Gants serpent (VIT) +7	10
+Gants serpent (VIT) +8	5
+Gants serpent (INT) +0	80
+Gants serpent (INT) +1	70
+Gants serpent (INT) +2	60
+Gants serpent (INT) +3	50
+Gants serpent (INT) +4	40
+Gants serpent (INT) +5	30
+Gants serpent (INT) +6	20
+Gants serpent (INT) +7	10
+Gants serpent (INT) +8	5
+Talisman volonté STR+0	70
+Talisman volonté STR+1	60
+Talisman volonté STR+2	60
+Talisman volonté STR+3	50
+Talisman volonté STR+4	50
+Talisman volonté STR+5	50
+Talisman volonté STR+6	40
+Talisman volonté STR+7	30
+Talisman volonté STR+8	20
+Talisman volonté RES+0	70
+Talisman volonté RES+1	60
+Talisman volonté RES+2	60
+Talisman volonté RES+3	50
+Talisman volonté RES+4	50
+Talisman volonté RES+5	50
+Talisman volonté RES+6	40
+Talisman volonté RES+7	30
+Talisman volonté RES+8	20
+Talisman volonté VIT+0	70
+Talisman volonté VIT+1	60
+Talisman volonté VIT+2	60
+Talisman volonté VIT+3	50
+Talisman volonté VIT+4	50
+Talisman volonté VIT+5	50
+Talisman volonté VIT+6	40
+Talisman volonté VIT+7	30
+Talisman volonté VIT+8	20
+Talisman volonté INT+0	70
+Talisman volonté INT+1	60
+Talisman volonté INT+2	60
+Talisman volonté INT+3	50
+Talisman volonté INT+4	50
+Talisman volonté INT+5	50
+Talisman volonté INT+6	40
+Talisman volonté INT+7	30
+Talisman volonté INT+8	20
+Talisman mystérieux+0	55
+Talisman mystérieux+1	45
+Talisman mystérieux+2	35
+Talisman mystérieux+3	25
+Talisman mystérieux+4	5
+Talisman mystérieux+5	5
+Talisman mystérieux+6	5
+Talisman mystérieux+7	3
+Talisman mystérieux+8	3
