@@ -1,5 +1,8 @@
 from . import upgradeData
 import numpy as np
+import matplotlib.pyplot as plt
+
+from .config import OUTPUT_FOLDER
 
 def try_pm(item, start = 0,  end = 9, k = 1000):
 
@@ -34,10 +37,25 @@ def try_pm(item, start = 0,  end = 9, k = 1000):
     pdf = mat[0] # pdf[i] = probability of getting item at level i
     cdf = np.cumsum(pdf) # cdf[i] = probability of getting item at level <= i
 
-    cdf =  [1 - cdf[i] for i in range(len(cdf))]
+    cdf =  [1 - cdf[i] + pdf[i] for i in range(len(cdf))]
 
     # pad for outside start end
     pdf = np.pad(pdf, (start, len(probas) - end), 'constant')
     cdf = np.pad(cdf, (start, len(probas) - end), 'constant')
+
+
+    plt.xlabel("Level")
+    plt.ylabel("Probability")
+    plt.plot(pdf, label="pdf")
+    plt.plot(cdf, label="cdf")
+    plt.legend()
+    # add a title to the graph
+    plt.title(f"Upgrading {item} level with {k} tries")
+    plt.yticks(np.arange(0, 1.1, 0.1))
+    plt.xticks(np.arange(0, len(pdf), (1,10)[end>15]))
+    plt.grid()
+    # save graph to file path
+    plt.savefig(f"{OUTPUT_FOLDER}/{item}_{start}_{end}_{k}.png")
+    plt.close()
 
     return pdf, cdf

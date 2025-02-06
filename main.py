@@ -1,7 +1,9 @@
 import upgrade
 
-pdf, cdf = upgrade.try_pm("épée", 0, 9, 15)
+# args default
+item = "talisman de glace"
+s = 0
+e = 200
+k = 700
 
-print('pdf',*pdf)
-
-print('cdf',*cdf)
+pdf, cdf = upgrade.try_pm(item, s, e, k)
